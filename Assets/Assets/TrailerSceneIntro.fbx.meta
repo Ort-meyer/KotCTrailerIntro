@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 9838256151f137e4bb61796a3063c6b4
+timeCreated: 1505322461
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baguette:Group8898
+    100002: Button
+    100004: Button 1
+    100006: Button1
+    100008: Button1 1
+    100010: Button2
+    100012: Button2 1
+    100014: carmjoint2
+    100016: carmjoint3
+    100018: carmjoint4
+    100020: carmjoint5
+    100022: carmjoint6
+    100024: carmjoint7
+    100026: carpet
+    100028: cCharacterBody
+    100030: cCharacterBodyjoint1
+    100032: cCharacterCenter
+    100034: cfingerjoint1
+    100036: cfingerjoint10
+    100038: cfingerjoint11
+    100040: cfingerjoint12
+    100042: cfingerjoint13
+    100044: cfingerjoint2
+    100046: cfingerjoint2 1
+    100048: cfingerjoint2 2
+    100050: cfingerjoint3
+    100052: cfingerjoint3 1
+    100054: cfingerjoint4
+    100056: cfingerjoint5
+    100058: cfingerjoint6
+    100060: cfingerjoint7
+    100062: cfingerjoint8
+    100064: cfingerjoint9
+    100066: cjoint1
+    100068: cjoint1 1
+    100070: cjoint2
+    100072: cjoint3
+    100074: cjoint4
+    100076: cjoint5
+    100078: cjoint6
+    100080: cjoint7
+    100082: cjoint8
+    100084: clegjoint10
+    100086: clegjoint11
+    100088: clegjoint12
+    100090: clegjoint13
+    100092: clegjoint14
+    100094: clegjoint15
+    100096: clegjoint16
+    100098: clegjoint17
+    100100: clegjoint18
+    100102: clegjoint9
+    100104: cspinejoint1
+    100106: cspinejoint2
+    100108: cspinejoint3
+    100110: cspinejoint4
+    100112: cspinejoint5
+    100114: cspinejoint6
+    100116: cspinejoint7
+    100118: Painting
+    100120: pCharacterBody
+    100122: pCharacterBodyjoint1
+    100124: pCharacterCenter
+    100126: pCube1
+    100128: pCube2
+    100130: pCube3
+    100132: pCube4
+    100134: pCylinder1
+    100136: pCylinder2
+    100138: pfingerjoint1
+    100140: pfingerjoint10
+    100142: pfingerjoint11
+    100144: pfingerjoint12
+    100146: pfingerjoint13
+    100148: pfingerjoint2
+    100150: pfingerjoint2 1
+    100152: pfingerjoint2 2
+    100154: pfingerjoint3
+    100156: pfingerjoint3 1
+    100158: pfingerjoint4
+    100160: pfingerjoint5
+    100162: pfingerjoint6
+    100164: pfingerjoint7
+    100166: pfingerjoint8
+    100168: pfingerjoint9
+    100170: pHandControl
+    100172: pHandControl1
+    100174: pHandControl2
+    100176: pHandControl3
+    100178: pHead
+    100180: Pillow
+    100182: Pillow1
+    100184: Pillow2
+    100186: pjoint1
+    100188: pjoint1 1
+    100190: pjoint2
+    100192: pjoint5
+    100194: pjoint6
+    100196: pjoint7
+    100198: pLeftArm
+    100200: pLeftElbow
+    100202: pLeftFoot
+    100204: pLeftHand
+    100206: pLeftKnee
+    100208: pLeftLeg
+    100210: pLeftShoulder
+    100212: plegjoint12
+    100214: plegjoint13
+    100216: plegjoint17
+    100218: plegjoint18
+    100220: pNeck
+    100222: PopCornpCube10
+    100224: PopCornpCube11
+    100226: PopCornpCube12
+    100228: PopCornpCube13
+    100230: PopCornpCube14
+    100232: PopCornpCube15
+    100234: PopCornpCube16
+    100236: PopCornpCube17
+    100238: PopCornpCube18
+    100240: PopCornpCube19
+    100242: PopCornpCube20
+    100244: PopCornpCube21
+    100246: PopCornpCube22
+    100248: PopCornpCube23
+    100250: PopCornpCube24
+    100252: PopCornpCube25
+    100254: PopCornpCube26
+    100256: PopCornpCube27
+    100258: PopCornpCube28
+    100260: PopCornpCube29
+    100262: PopCornpCube30
+    100264: PopCornpCube31
+    100266: PopCornpCube32
+    100268: PopCornpCube33
+    100270: PopCornpCube34
+    100272: PopCornpCube35
+    100274: PopCornpCube36
+    100276: PopCornpCube37
+    100278: PopCornpCube38
+    100280: PopCornpCube39
+    100282: PopCornpCube40
+    100284: PopCornpCube41
+    100286: PopCornpCube42
+    100288: PopCornpCube43
+    100290: PopCornpCube44
+    100292: PopCornpCube45
+    100294: PopCornpCube46
+    100296: PopCornpCube47
+    100298: PopCornpCube48
+    100300: PopCornpCube5
+    100302: PopCornpCube6
+    100304: PopCornpCube7
+    100306: PopCornpCube8
+    100308: PopCornpCube9
+    100310: Pot1
+    100312: pRightArm
+    100314: pRightElbow
+    100316: pRightFoot
+    100318: pRightHand
+    100320: pRightKnee
+    100322: pRightLeg
+    100324: pRightShoulder
+    100326: pSpineBottom
+    100328: pspinejoint1
+    100330: pspinejoint2
+    100332: pspinejoint3
+    100334: pspinejoint4
+    100336: pspinejoint5
+    100338: RedButton
+    100340: RedButton 1
+    100342: Room
+    100344: Table
+    100346: tarmjoint2
+    100348: tarmjoint3
+    100350: tarmjoint4
+    100352: tarmjoint5
+    100354: tarmjoint6
+    100356: tarmjoint7
+    100358: tCharacterBody
+    100360: tCharacterBodyjoint1
+    100362: tCharacterCenter
+    100364: tfingerjoint1
+    100366: tfingerjoint10
+    100368: tfingerjoint11
+    100370: tfingerjoint12
+    100372: tfingerjoint13
+    100374: tfingerjoint2
+    100376: tfingerjoint2 1
+    100378: tfingerjoint2 2
+    100380: tfingerjoint3
+    100382: tfingerjoint3 1
+    100384: tfingerjoint4
+    100386: tfingerjoint5
+    100388: tfingerjoint6
+    100390: tfingerjoint7
+    100392: tfingerjoint8
+    100394: tfingerjoint9
+    100396: tjoint1
+    100398: tjoint1 1
+    100400: tjoint2
+    100402: tjoint3
+    100404: tjoint4
+    100406: tjoint5
+    100408: tjoint6
+    100410: tjoint7
+    100412: tjoint8
+    100414: tlegjoint10
+    100416: tlegjoint11
+    100418: tlegjoint12
+    100420: tlegjoint13
+    100422: tlegjoint14
+    100424: tlegjoint15
+    100426: tlegjoint16
+    100428: tlegjoint17
+    100430: tlegjoint18
+    100432: tlegjoint9
+    100434: //RootNode
+    100436: tspinejoint1
+    100438: tspinejoint2
+    100440: tspinejoint3
+    100442: tspinejoint4
+    100444: tspinejoint5
+    100446: tspinejoint6
+    100448: tspinejoint7
+    100450: TV
+    100452: TV1
+    100454: yarmjoint2
+    100456: yarmjoint3
+    100458: yarmjoint4
+    100460: yarmjoint5
+    100462: yarmjoint6
+    100464: yarmjoint7
+    100466: yCharacterBody
+    100468: yCharacterBodyjoint1
+    100470: yCharacterCenter
+    100472: yfingerjoint1
+    100474: yfingerjoint10
+    100476: yfingerjoint11
+    100478: yfingerjoint12
+    100480: yfingerjoint13
+    100482: yfingerjoint2
+    100484: yfingerjoint2 1
+    100486: yfingerjoint2 2
+    100488: yfingerjoint3
+    100490: yfingerjoint3 1
+    100492: yfingerjoint4
+    100494: yfingerjoint5
+    100496: yfingerjoint6
+    100498: yfingerjoint7
+    100500: yfingerjoint8
+    100502: yfingerjoint9
+    100504: yjoint1
+    100506: yjoint1 1
+    100508: yjoint2
+    100510: yjoint3
+    100512: yjoint4
+    100514: yjoint5
+    100516: yjoint6
+    100518: yjoint7
+    100520: yjoint8
+    100522: ylegjoint10
+    100524: ylegjoint11
+    100526: ylegjoint12
+    100528: ylegjoint13
+    100530: ylegjoint14
+    100532: ylegjoint15
+    100534: ylegjoint16
+    100536: ylegjoint17
+    100538: ylegjoint18
+    100540: ylegjoint9
+    100542: yspinejoint1
+    100544: yspinejoint2
+    100546: yspinejoint3
+    100548: yspinejoint4
+    100550: yspinejoint5
+    100552: yspinejoint6
+    100554: yspinejoint7
+    400000: Baguette:Group8898
+    400002: Button
+    400004: Button 1
+    400006: Button1
+    400008: Button1 1
+    400010: Button2
+    400012: Button2 1
+    400014: carmjoint2
+    400016: carmjoint3
+    400018: carmjoint4
+    400020: carmjoint5
+    400022: carmjoint6
+    400024: carmjoint7
+    400026: carpet
+    400028: cCharacterBody
+    400030: cCharacterBodyjoint1
+    400032: cCharacterCenter
+    400034: cfingerjoint1
+    400036: cfingerjoint10
+    400038: cfingerjoint11
+    400040: cfingerjoint12
+    400042: cfingerjoint13
+    400044: cfingerjoint2
+    400046: cfingerjoint2 1
+    400048: cfingerjoint2 2
+    400050: cfingerjoint3
+    400052: cfingerjoint3 1
+    400054: cfingerjoint4
+    400056: cfingerjoint5
+    400058: cfingerjoint6
+    400060: cfingerjoint7
+    400062: cfingerjoint8
+    400064: cfingerjoint9
+    400066: cjoint1
+    400068: cjoint1 1
+    400070: cjoint2
+    400072: cjoint3
+    400074: cjoint4
+    400076: cjoint5
+    400078: cjoint6
+    400080: cjoint7
+    400082: cjoint8
+    400084: clegjoint10
+    400086: clegjoint11
+    400088: clegjoint12
+    400090: clegjoint13
+    400092: clegjoint14
+    400094: clegjoint15
+    400096: clegjoint16
+    400098: clegjoint17
+    400100: clegjoint18
+    400102: clegjoint9
+    400104: cspinejoint1
+    400106: cspinejoint2
+    400108: cspinejoint3
+    400110: cspinejoint4
+    400112: cspinejoint5
+    400114: cspinejoint6
+    400116: cspinejoint7
+    400118: Painting
+    400120: pCharacterBody
+    400122: pCharacterBodyjoint1
+    400124: pCharacterCenter
+    400126: pCube1
+    400128: pCube2
+    400130: pCube3
+    400132: pCube4
+    400134: pCylinder1
+    400136: pCylinder2
+    400138: pfingerjoint1
+    400140: pfingerjoint10
+    400142: pfingerjoint11
+    400144: pfingerjoint12
+    400146: pfingerjoint13
+    400148: pfingerjoint2
+    400150: pfingerjoint2 1
+    400152: pfingerjoint2 2
+    400154: pfingerjoint3
+    400156: pfingerjoint3 1
+    400158: pfingerjoint4
+    400160: pfingerjoint5
+    400162: pfingerjoint6
+    400164: pfingerjoint7
+    400166: pfingerjoint8
+    400168: pfingerjoint9
+    400170: pHandControl
+    400172: pHandControl1
+    400174: pHandControl2
+    400176: pHandControl3
+    400178: pHead
+    400180: Pillow
+    400182: Pillow1
+    400184: Pillow2
+    400186: pjoint1
+    400188: pjoint1 1
+    400190: pjoint2
+    400192: pjoint5
+    400194: pjoint6
+    400196: pjoint7
+    400198: pLeftArm
+    400200: pLeftElbow
+    400202: pLeftFoot
+    400204: pLeftHand
+    400206: pLeftKnee
+    400208: pLeftLeg
+    400210: pLeftShoulder
+    400212: plegjoint12
+    400214: plegjoint13
+    400216: plegjoint17
+    400218: plegjoint18
+    400220: pNeck
+    400222: PopCornpCube10
+    400224: PopCornpCube11
+    400226: PopCornpCube12
+    400228: PopCornpCube13
+    400230: PopCornpCube14
+    400232: PopCornpCube15
+    400234: PopCornpCube16
+    400236: PopCornpCube17
+    400238: PopCornpCube18
+    400240: PopCornpCube19
+    400242: PopCornpCube20
+    400244: PopCornpCube21
+    400246: PopCornpCube22
+    400248: PopCornpCube23
+    400250: PopCornpCube24
+    400252: PopCornpCube25
+    400254: PopCornpCube26
+    400256: PopCornpCube27
+    400258: PopCornpCube28
+    400260: PopCornpCube29
+    400262: PopCornpCube30
+    400264: PopCornpCube31
+    400266: PopCornpCube32
+    400268: PopCornpCube33
+    400270: PopCornpCube34
+    400272: PopCornpCube35
+    400274: PopCornpCube36
+    400276: PopCornpCube37
+    400278: PopCornpCube38
+    400280: PopCornpCube39
+    400282: PopCornpCube40
+    400284: PopCornpCube41
+    400286: PopCornpCube42
+    400288: PopCornpCube43
+    400290: PopCornpCube44
+    400292: PopCornpCube45
+    400294: PopCornpCube46
+    400296: PopCornpCube47
+    400298: PopCornpCube48
+    400300: PopCornpCube5
+    400302: PopCornpCube6
+    400304: PopCornpCube7
+    400306: PopCornpCube8
+    400308: PopCornpCube9
+    400310: Pot1
+    400312: pRightArm
+    400314: pRightElbow
+    400316: pRightFoot
+    400318: pRightHand
+    400320: pRightKnee
+    400322: pRightLeg
+    400324: pRightShoulder
+    400326: pSpineBottom
+    400328: pspinejoint1
+    400330: pspinejoint2
+    400332: pspinejoint3
+    400334: pspinejoint4
+    400336: pspinejoint5
+    400338: RedButton
+    400340: RedButton 1
+    400342: Room
+    400344: Table
+    400346: tarmjoint2
+    400348: tarmjoint3
+    400350: tarmjoint4
+    400352: tarmjoint5
+    400354: tarmjoint6
+    400356: tarmjoint7
+    400358: tCharacterBody
+    400360: tCharacterBodyjoint1
+    400362: tCharacterCenter
+    400364: tfingerjoint1
+    400366: tfingerjoint10
+    400368: tfingerjoint11
+    400370: tfingerjoint12
+    400372: tfingerjoint13
+    400374: tfingerjoint2
+    400376: tfingerjoint2 1
+    400378: tfingerjoint2 2
+    400380: tfingerjoint3
+    400382: tfingerjoint3 1
+    400384: tfingerjoint4
+    400386: tfingerjoint5
+    400388: tfingerjoint6
+    400390: tfingerjoint7
+    400392: tfingerjoint8
+    400394: tfingerjoint9
+    400396: tjoint1
+    400398: tjoint1 1
+    400400: tjoint2
+    400402: tjoint3
+    400404: tjoint4
+    400406: tjoint5
+    400408: tjoint6
+    400410: tjoint7
+    400412: tjoint8
+    400414: tlegjoint10
+    400416: tlegjoint11
+    400418: tlegjoint12
+    400420: tlegjoint13
+    400422: tlegjoint14
+    400424: tlegjoint15
+    400426: tlegjoint16
+    400428: tlegjoint17
+    400430: tlegjoint18
+    400432: tlegjoint9
+    400434: //RootNode
+    400436: tspinejoint1
+    400438: tspinejoint2
+    400440: tspinejoint3
+    400442: tspinejoint4
+    400444: tspinejoint5
+    400446: tspinejoint6
+    400448: tspinejoint7
+    400450: TV
+    400452: TV1
+    400454: yarmjoint2
+    400456: yarmjoint3
+    400458: yarmjoint4
+    400460: yarmjoint5
+    400462: yarmjoint6
+    400464: yarmjoint7
+    400466: yCharacterBody
+    400468: yCharacterBodyjoint1
+    400470: yCharacterCenter
+    400472: yfingerjoint1
+    400474: yfingerjoint10
+    400476: yfingerjoint11
+    400478: yfingerjoint12
+    400480: yfingerjoint13
+    400482: yfingerjoint2
+    400484: yfingerjoint2 1
+    400486: yfingerjoint2 2
+    400488: yfingerjoint3
+    400490: yfingerjoint3 1
+    400492: yfingerjoint4
+    400494: yfingerjoint5
+    400496: yfingerjoint6
+    400498: yfingerjoint7
+    400500: yfingerjoint8
+    400502: yfingerjoint9
+    400504: yjoint1
+    400506: yjoint1 1
+    400508: yjoint2
+    400510: yjoint3
+    400512: yjoint4
+    400514: yjoint5
+    400516: yjoint6
+    400518: yjoint7
+    400520: yjoint8
+    400522: ylegjoint10
+    400524: ylegjoint11
+    400526: ylegjoint12
+    400528: ylegjoint13
+    400530: ylegjoint14
+    400532: ylegjoint15
+    400534: ylegjoint16
+    400536: ylegjoint17
+    400538: ylegjoint18
+    400540: ylegjoint9
+    400542: yspinejoint1
+    400544: yspinejoint2
+    400546: yspinejoint3
+    400548: yspinejoint4
+    400550: yspinejoint5
+    400552: yspinejoint6
+    400554: yspinejoint7
+    2300000: Baguette:Group8898
+    2300002: Button
+    2300004: Button 1
+    2300006: Button1
+    2300008: Button1 1
+    2300010: Button2
+    2300012: Button2 1
+    2300014: carpet
+    2300016: Painting
+    2300018: pCube1
+    2300020: pCube2
+    2300022: pCube3
+    2300024: pCube4
+    2300026: pCylinder1
+    2300028: pCylinder2
+    2300030: pHandControl
+    2300032: pHandControl1
+    2300034: pHandControl2
+    2300036: pHandControl3
+    2300038: Pillow
+    2300040: Pillow1
+    2300042: Pillow2
+    2300044: PopCornpCube10
+    2300046: PopCornpCube11
+    2300048: PopCornpCube12
+    2300050: PopCornpCube13
+    2300052: PopCornpCube14
+    2300054: PopCornpCube15
+    2300056: PopCornpCube16
+    2300058: PopCornpCube17
+    2300060: PopCornpCube18
+    2300062: PopCornpCube19
+    2300064: PopCornpCube20
+    2300066: PopCornpCube21
+    2300068: PopCornpCube22
+    2300070: PopCornpCube23
+    2300072: PopCornpCube24
+    2300074: PopCornpCube25
+    2300076: PopCornpCube26
+    2300078: PopCornpCube27
+    2300080: PopCornpCube28
+    2300082: PopCornpCube29
+    2300084: PopCornpCube30
+    2300086: PopCornpCube31
+    2300088: PopCornpCube32
+    2300090: PopCornpCube33
+    2300092: PopCornpCube34
+    2300094: PopCornpCube35
+    2300096: PopCornpCube36
+    2300098: PopCornpCube37
+    2300100: PopCornpCube38
+    2300102: PopCornpCube39
+    2300104: PopCornpCube40
+    2300106: PopCornpCube41
+    2300108: PopCornpCube42
+    2300110: PopCornpCube43
+    2300112: PopCornpCube44
+    2300114: PopCornpCube45
+    2300116: PopCornpCube46
+    2300118: PopCornpCube47
+    2300120: PopCornpCube48
+    2300122: PopCornpCube5
+    2300124: PopCornpCube6
+    2300126: PopCornpCube7
+    2300128: PopCornpCube8
+    2300130: PopCornpCube9
+    2300132: Pot1
+    2300134: RedButton
+    2300136: RedButton 1
+    2300138: Room
+    2300140: Table
+    2300142: TV
+    2300144: TV1
+    3300000: Baguette:Group8898
+    3300002: Button
+    3300004: Button 1
+    3300006: Button1
+    3300008: Button1 1
+    3300010: Button2
+    3300012: Button2 1
+    3300014: carpet
+    3300016: Painting
+    3300018: pCube1
+    3300020: pCube2
+    3300022: pCube3
+    3300024: pCube4
+    3300026: pCylinder1
+    3300028: pCylinder2
+    3300030: pHandControl
+    3300032: pHandControl1
+    3300034: pHandControl2
+    3300036: pHandControl3
+    3300038: Pillow
+    3300040: Pillow1
+    3300042: Pillow2
+    3300044: PopCornpCube10
+    3300046: PopCornpCube11
+    3300048: PopCornpCube12
+    3300050: PopCornpCube13
+    3300052: PopCornpCube14
+    3300054: PopCornpCube15
+    3300056: PopCornpCube16
+    3300058: PopCornpCube17
+    3300060: PopCornpCube18
+    3300062: PopCornpCube19
+    3300064: PopCornpCube20
+    3300066: PopCornpCube21
+    3300068: PopCornpCube22
+    3300070: PopCornpCube23
+    3300072: PopCornpCube24
+    3300074: PopCornpCube25
+    3300076: PopCornpCube26
+    3300078: PopCornpCube27
+    3300080: PopCornpCube28
+    3300082: PopCornpCube29
+    3300084: PopCornpCube30
+    3300086: PopCornpCube31
+    3300088: PopCornpCube32
+    3300090: PopCornpCube33
+    3300092: PopCornpCube34
+    3300094: PopCornpCube35
+    3300096: PopCornpCube36
+    3300098: PopCornpCube37
+    3300100: PopCornpCube38
+    3300102: PopCornpCube39
+    3300104: PopCornpCube40
+    3300106: PopCornpCube41
+    3300108: PopCornpCube42
+    3300110: PopCornpCube43
+    3300112: PopCornpCube44
+    3300114: PopCornpCube45
+    3300116: PopCornpCube46
+    3300118: PopCornpCube47
+    3300120: PopCornpCube48
+    3300122: PopCornpCube5
+    3300124: PopCornpCube6
+    3300126: PopCornpCube7
+    3300128: PopCornpCube8
+    3300130: PopCornpCube9
+    3300132: Pot1
+    3300134: RedButton
+    3300136: RedButton 1
+    3300138: Room
+    3300140: Table
+    3300142: TV
+    3300144: TV1
+    4300000: yCharacterBody
+    4300002: Pillow2
+    4300004: Pot1
+    4300006: tCharacterBody
+    4300008: cCharacterBody
+    4300010: carpet
+    4300012: TV1
+    4300014: Button
+    4300016: Button2
+    4300018: Button1
+    4300020: RedButton
+    4300022: Painting
+    4300024: PopCornpCube36
+    4300026: PopCornpCube37
+    4300028: PopCornpCube38
+    4300030: PopCornpCube39
+    4300032: PopCornpCube40
+    4300034: PopCornpCube41
+    4300036: PopCornpCube42
+    4300038: PopCornpCube43
+    4300040: PopCornpCube44
+    4300042: PopCornpCube45
+    4300044: PopCornpCube46
+    4300046: PopCornpCube47
+    4300048: PopCornpCube48
+    4300050: PopCornpCube35
+    4300052: PopCornpCube34
+    4300054: PopCornpCube33
+    4300056: PopCornpCube32
+    4300058: PopCornpCube31
+    4300060: PopCornpCube30
+    4300062: PopCornpCube29
+    4300064: PopCornpCube28
+    4300066: PopCornpCube27
+    4300068: PopCornpCube26
+    4300070: PopCornpCube25
+    4300072: PopCornpCube24
+    4300074: PopCornpCube23
+    4300076: PopCornpCube22
+    4300078: PopCornpCube21
+    4300080: PopCornpCube20
+    4300082: PopCornpCube19
+    4300084: PopCornpCube18
+    4300086: PopCornpCube17
+    4300088: PopCornpCube16
+    4300090: PopCornpCube15
+    4300092: PopCornpCube14
+    4300094: PopCornpCube13
+    4300096: PopCornpCube12
+    4300098: PopCornpCube11
+    4300100: PopCornpCube10
+    4300102: PopCornpCube9
+    4300104: PopCornpCube8
+    4300106: PopCornpCube7
+    4300108: PopCornpCube6
+    4300110: PopCornpCube5
+    4300112: Baguette:Group8898
+    4300114: TV
+    4300116: Button
+    4300118: Button2
+    4300120: Button1
+    4300122: RedButton
+    4300124: pCylinder2
+    4300126: pCylinder1
+    4300128: Pillow1
+    4300130: Pillow
+    4300132: pCube4
+    4300134: pCube3
+    4300136: pCube2
+    4300138: Room
+    4300140: Table
+    4300142: pCharacterBody
+    4300144: pCube1
+    4300146: pHandControl3
+    4300148: pHandControl2
+    4300150: pHandControl1
+    4300152: pHandControl
+    7400000: TrailerScene_Loop
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: cCharacterBody
+    13700002: pCharacterBody
+    13700004: tCharacterBody
+    13700006: yCharacterBody
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TrailerScene_Loop
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Baguette:Group8898
+        weight: 1
+      - path: carpet
+        weight: 1
+      - path: cCharacterBody
+        weight: 1
+      - path: cCharacterCenter
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint1
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint1/cfingerjoint2
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint1/cfingerjoint2/cjoint1
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint1/cfingerjoint2/cjoint1/cfingerjoint3
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint4
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint4/cfingerjoint2
+          1
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint4/cfingerjoint2
+          1/cjoint2
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint4/cfingerjoint2
+          1/cjoint2/cfingerjoint3 1
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint5
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint5/cfingerjoint2
+          2
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint3/carmjoint2/carmjoint3/carmjoint4/cfingerjoint5/cfingerjoint2
+          2/cjoint1 1
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint6
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint6/cfingerjoint7
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint6/cfingerjoint7/cjoint5
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint8
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint8/cfingerjoint9
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint8/cfingerjoint9/cjoint6
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint8/cfingerjoint9/cjoint6/cfingerjoint10
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint11
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint11/cfingerjoint12
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint11/cfingerjoint12/cjoint7
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/cfingerjoint11/cfingerjoint12/cjoint7/cfingerjoint13
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cjoint4/carmjoint5/carmjoint6/carmjoint7/pHandControl1
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cspinejoint6
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/cjoint8/cspinejoint2/cspinejoint3/cspinejoint4/cspinejoint5/cspinejoint6/cspinejoint7
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint9
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint9/clegjoint10
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint9/clegjoint10/clegjoint11
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint9/clegjoint10/clegjoint11/clegjoint12
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint9/clegjoint10/clegjoint11/clegjoint12/clegjoint13
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint14
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint14/clegjoint15
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint14/clegjoint15/clegjoint16
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint14/clegjoint15/clegjoint16/clegjoint17
+        weight: 1
+      - path: cCharacterCenter/cCharacterBodyjoint1/cspinejoint1/clegjoint14/clegjoint15/clegjoint16/clegjoint17/clegjoint18
+        weight: 1
+      - path: Painting
+        weight: 1
+      - path: pCharacterBody
+        weight: 1
+      - path: pCharacterCenter
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pLeftLeg
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pLeftLeg/pLeftKnee
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pLeftLeg/pLeftKnee/pLeftFoot
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pLeftLeg/pLeftKnee/pLeftFoot/plegjoint12
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pLeftLeg/pLeftKnee/pLeftFoot/plegjoint12/plegjoint13
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pRightLeg
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pRightLeg/pRightKnee
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pRightLeg/pRightKnee/pRightFoot
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pRightLeg/pRightKnee/pRightFoot/plegjoint17
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pRightLeg/pRightKnee/pRightFoot/plegjoint17/plegjoint18
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint1
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint1/pfingerjoint2
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint1/pfingerjoint2/pjoint1
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint1/pfingerjoint2/pjoint1/pfingerjoint3
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint4
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint4/pfingerjoint2
+          1
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint4/pfingerjoint2
+          1/pjoint2
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint4/pfingerjoint2
+          1/pjoint2/pfingerjoint3 1
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint5
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint5/pfingerjoint2
+          2
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pLeftArm/pLeftShoulder/pLeftElbow/pLeftHand/pfingerjoint5/pfingerjoint2
+          2/pjoint1 1
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pNeck
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pNeck/pHead
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint6
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint6/pfingerjoint7
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint6/pfingerjoint7/pjoint5
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint8
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint8/pfingerjoint9
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint8/pfingerjoint9/pjoint6
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint8/pfingerjoint9/pjoint6/pfingerjoint10
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint11
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint11/pfingerjoint12
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint11/pfingerjoint12/pjoint7
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pfingerjoint11/pfingerjoint12/pjoint7/pfingerjoint13
+        weight: 1
+      - path: pCharacterCenter/pCharacterBodyjoint1/pspinejoint1/pSpineBottom/pspinejoint2/pspinejoint3/pspinejoint4/pspinejoint5/pRightArm/pRightShoulder/pRightElbow/pRightHand/pHandControl
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: Pillow
+        weight: 1
+      - path: Pillow1
+        weight: 1
+      - path: Pillow2
+        weight: 1
+      - path: PopCornpCube36
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube5
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube6
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube7
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube8
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube9
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube10
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube11
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube12
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube13
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube14
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube15
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube16
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube17
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube18
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube19
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube20
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube21
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube22
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube23
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube24
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube25
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube26
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube27
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube28
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube29
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube30
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube31
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube32
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube33
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube34
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube35
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube37
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube38
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube39
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube40
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube41
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube42
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube43
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube44
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube45
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube46
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube47
+        weight: 1
+      - path: PopCornpCube36/PopCornpCube48
+        weight: 1
+      - path: Pot1
+        weight: 1
+      - path: Room
+        weight: 1
+      - path: Table
+        weight: 1
+      - path: tCharacterBody
+        weight: 1
+      - path: tCharacterCenter
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint1
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint1/tfingerjoint2
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint1/tfingerjoint2/tjoint1
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint1/tfingerjoint2/tjoint1/tfingerjoint3
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint4
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint4/tfingerjoint2
+          1
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint4/tfingerjoint2
+          1/tjoint2
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint4/tfingerjoint2
+          1/tjoint2/tfingerjoint3 1
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint5
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint5/tfingerjoint2
+          2
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint3/tarmjoint2/tarmjoint3/tarmjoint4/tfingerjoint5/tfingerjoint2
+          2/tjoint1 1
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/pHandControl2
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint6
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint6/tfingerjoint7
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint6/tfingerjoint7/tjoint5
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint8
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint8/tfingerjoint9
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint8/tfingerjoint9/tjoint6
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint8/tfingerjoint9/tjoint6/tfingerjoint10
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint11
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint11/tfingerjoint12
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint11/tfingerjoint12/tjoint7
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tjoint4/tarmjoint5/tarmjoint6/tarmjoint7/tfingerjoint11/tfingerjoint12/tjoint7/tfingerjoint13
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tspinejoint6
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tjoint8/tspinejoint2/tspinejoint3/tspinejoint4/tspinejoint5/tspinejoint6/tspinejoint7
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint9
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint9/tlegjoint10
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint9/tlegjoint10/tlegjoint11
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint9/tlegjoint10/tlegjoint11/tlegjoint12
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint9/tlegjoint10/tlegjoint11/tlegjoint12/tlegjoint13
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint14
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint14/tlegjoint15
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint14/tlegjoint15/tlegjoint16
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint14/tlegjoint15/tlegjoint16/tlegjoint17
+        weight: 1
+      - path: tCharacterCenter/tCharacterBodyjoint1/tspinejoint1/tlegjoint14/tlegjoint15/tlegjoint16/tlegjoint17/tlegjoint18
+        weight: 1
+      - path: TV
+        weight: 1
+      - path: TV/Button
+        weight: 1
+      - path: TV/Button1
+        weight: 1
+      - path: TV/Button2
+        weight: 1
+      - path: TV/RedButton
+        weight: 1
+      - path: TV1
+        weight: 1
+      - path: TV1/Button 1
+        weight: 1
+      - path: TV1/Button1 1
+        weight: 1
+      - path: TV1/Button2 1
+        weight: 1
+      - path: TV1/RedButton 1
+        weight: 1
+      - path: yCharacterBody
+        weight: 1
+      - path: yCharacterCenter
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint1
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint1/yfingerjoint2
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint1/yfingerjoint2/yjoint1
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint1/yfingerjoint2/yjoint1/yfingerjoint3
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint4
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint4/yfingerjoint2
+          1
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint4/yfingerjoint2
+          1/yjoint2
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint4/yfingerjoint2
+          1/yjoint2/yfingerjoint3 1
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint5
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint5/yfingerjoint2
+          2
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint3/yarmjoint2/yarmjoint3/yarmjoint4/yfingerjoint5/yfingerjoint2
+          2/yjoint1 1
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/pHandControl3
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint6
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint6/yfingerjoint7
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint6/yfingerjoint7/yjoint5
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint8
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint8/yfingerjoint9
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint8/yfingerjoint9/yjoint6
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint8/yfingerjoint9/yjoint6/yfingerjoint10
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint11
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint11/yfingerjoint12
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint11/yfingerjoint12/yjoint7
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yjoint4/yarmjoint5/yarmjoint6/yarmjoint7/yfingerjoint11/yfingerjoint12/yjoint7/yfingerjoint13
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yspinejoint6
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/yjoint8/yspinejoint2/yspinejoint3/yspinejoint4/yspinejoint5/yspinejoint6/yspinejoint7
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint9
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint9/ylegjoint10
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint9/ylegjoint10/ylegjoint11
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint9/ylegjoint10/ylegjoint11/ylegjoint12
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint9/ylegjoint10/ylegjoint11/ylegjoint12/ylegjoint13
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint14
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint14/ylegjoint15
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint14/ylegjoint15/ylegjoint16
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint14/ylegjoint15/ylegjoint16/ylegjoint17
+        weight: 1
+      - path: yCharacterCenter/yCharacterBodyjoint1/yspinejoint1/ylegjoint14/ylegjoint15/ylegjoint16/ylegjoint17/ylegjoint18
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

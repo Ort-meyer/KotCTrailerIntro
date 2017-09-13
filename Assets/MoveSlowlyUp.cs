@@ -22,7 +22,7 @@ public class MoveSlowlyUp : MonoBehaviour
     {
 
         if (transform.position.y < m_stopHeight)
-            transform.position = transform.position + new Vector3(0, m_moveSpeed, 0);
+            transform.position = transform.position + new Vector3(0, m_moveSpeed * Time.deltaTime, 0);
     }
 }
 

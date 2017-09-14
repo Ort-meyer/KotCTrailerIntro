@@ -47,11 +47,11 @@ public class MoveBackUpwards : MonoBehaviour {
         float alpha = Mathf.Min((curTime) / (timeToMove), 1.0f);
 
         transform.position = startPos * (1.0f - alpha) + moveTo.position * alpha;
-
-        if (rotated < 180 )
-        {
-            transform.Rotate(new Vector3(0, -rotateAmount, 0));
-            rotated += rotateAmount;
-        }
+        transform.rotation = Quaternion.RotateTowards(transform.rotation, moveTo.rotation, 1.2f);
+        //if (rotated < 180 )
+        //{
+        //    transform.Rotate(new Vector3(0, -rotateAmount, 0));
+        //    rotated += rotateAmount;
+        //}
     }
 }

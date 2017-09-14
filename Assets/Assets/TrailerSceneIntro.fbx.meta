@@ -286,6 +286,9 @@ ModelImporter:
     100556: FootControl
     100558: ikHandle1
     100560: ikHandle2
+    100562: FootController
+    100564: ikHandle3
+    100566: ikHandle4
     400000: Baguette:Group8898
     400002: Button
     400004: Button 1
@@ -567,6 +570,9 @@ ModelImporter:
     400556: FootControl
     400558: ikHandle1
     400560: ikHandle2
+    400562: FootController
+    400564: ikHandle3
+    400566: ikHandle4
     2300000: Baguette:Group8898
     2300002: Button
     2300004: Button 1

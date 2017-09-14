@@ -19,6 +19,11 @@ public class MoveSlowlyToPosition : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (GameObject.Find("CameraSwitcher").GetComponent<CameraSwitcher>().started == false)
+        {
+            return;
+        }
+
         Vector3 moveDirection = -1 * (transform.position - m_targetPosition.position).normalized;
         transform.position = transform.position + moveDirection * m_moveSpeed * Time.deltaTime;
     }

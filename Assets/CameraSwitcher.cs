@@ -13,6 +13,8 @@ public class CameraSwitcher : MonoBehaviour
     int m_currentSegment = 0;
     float m_time = 0;
 
+    public bool started = false;
+
     // Use this for initialization
     void Start()
     {
@@ -22,7 +24,19 @@ public class CameraSwitcher : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            started = true;
+            GameObject.Find("Audio Source").GetComponent<AudioSource>().Play();
+        }
+
+        if (started == false)
+        {
+            return;
+        }
+
         m_time += Time.deltaTime;
+
         
         if (m_currentSegment < segmentBreakPoints.Length)
         {

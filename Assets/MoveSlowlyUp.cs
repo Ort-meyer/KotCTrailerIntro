@@ -20,6 +20,10 @@ public class MoveSlowlyUp : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (GameObject.Find("CameraSwitcher").GetComponent<CameraSwitcher>().started == false)
+        {
+            return;
+        }
 
         if (transform.position.y < m_stopHeight)
             transform.position = transform.position + new Vector3(0, m_moveSpeed * Time.deltaTime, 0);

@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: 174cc1d7c02348b4ea7d12313c01e2ea
+timeCreated: 1505369273
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group8898
+    100002: pushbuttonButton
+    100004: pushbuttonButton 1
+    100006: pushbuttonButton1
+    100008: pushbuttonButton1 1
+    100010: pushbuttonButton2
+    100012: pushbuttonButton2 1
+    100014: pushbuttoncarmjoint2
+    100016: pushbuttoncarmjoint3
+    100018: pushbuttoncarmjoint4
+    100020: pushbuttoncarmjoint5
+    100022: pushbuttoncarmjoint6
+    100024: pushbuttoncarmjoint7
+    100026: pushbuttoncarpet
+    100028: pushbuttoncCharacterBody
+    100030: pushbuttoncCharacterBodyjoint1
+    100032: pushbuttoncCharacterCenter
+    100034: pushbuttoncfingerjoint1
+    100036: pushbuttoncfingerjoint10
+    100038: pushbuttoncfingerjoint11
+    100040: pushbuttoncfingerjoint12
+    100042: pushbuttoncfingerjoint13
+    100044: pushbuttoncfingerjoint2
+    100046: pushbuttoncfingerjoint2 1
+    100048: pushbuttoncfingerjoint2 2
+    100050: pushbuttoncfingerjoint3
+    100052: pushbuttoncfingerjoint3 1
+    100054: pushbuttoncfingerjoint4
+    100056: pushbuttoncfingerjoint5
+    100058: pushbuttoncfingerjoint6
+    100060: pushbuttoncfingerjoint7
+    100062: pushbuttoncfingerjoint8
+    100064: pushbuttoncfingerjoint9
+    100066: pushbuttoncjoint1
+    100068: pushbuttoncjoint1 1
+    100070: pushbuttoncjoint2
+    100072: pushbuttoncjoint3
+    100074: pushbuttoncjoint4
+    100076: pushbuttoncjoint5
+    100078: pushbuttoncjoint6
+    100080: pushbuttoncjoint7
+    100082: pushbuttoncjoint8
+    100084: pushbuttonclegjoint10
+    100086: pushbuttonclegjoint11
+    100088: pushbuttonclegjoint12
+    100090: pushbuttonclegjoint13
+    100092: pushbuttonclegjoint14
+    100094: pushbuttonclegjoint15
+    100096: pushbuttonclegjoint16
+    100098: pushbuttonclegjoint17
+    100100: pushbuttonclegjoint18
+    100102: pushbuttonclegjoint9
+    100104: pushbuttoncspinejoint1
+    100106: pushbuttoncspinejoint2
+    100108: pushbuttoncspinejoint3
+    100110: pushbuttoncspinejoint4
+    100112: pushbuttoncspinejoint5
+    100114: pushbuttoncspinejoint6
+    100116: pushbuttoncspinejoint7
+    100118: pushbuttonFootControl
+    100120: pushbuttonFootController
+    100122: pushbuttonikHandle1
+    100124: pushbuttonikHandle2
+    100126: pushbuttonikHandle3
+    100128: pushbuttonikHandle4
+    100130: pushbuttonPainting
+    100132: pushbuttonpCharacterBody
+    100134: pushbuttonpCharacterBodyjoint1
+    100136: pushbuttonpCharacterCenter
+    100138: pushbuttonpCube1
+    100140: pushbuttonpCube2
+    100142: pushbuttonpCube3
+    100144: pushbuttonpCube4
+    100146: pushbuttonpCylinder1
+    100148: pushbuttonpCylinder2
+    100150: pushbuttonpfingerjoint1
+    100152: pushbuttonpfingerjoint10
+    100154: pushbuttonpfingerjoint11
+    100156: pushbuttonpfingerjoint12
+    100158: pushbuttonpfingerjoint13
+    100160: pushbuttonpfingerjoint2
+    100162: pushbuttonpfingerjoint2 1
+    100164: pushbuttonpfingerjoint2 2
+    100166: pushbuttonpfingerjoint3
+    100168: pushbuttonpfingerjoint3 1
+    100170: pushbuttonpfingerjoint4
+    100172: pushbuttonpfingerjoint5
+    100174: pushbuttonpfingerjoint6
+    100176: pushbuttonpfingerjoint7
+    100178: pushbuttonpfingerjoint8
+    100180: pushbuttonpfingerjoint9
+    100182: pushbuttonpHandControl1
+    100184: pushbuttonpHandControl2
+    100186: pushbuttonpHandControl3
+    100188: pushbuttonpHead
+    100190: pushbuttonPillow
+    100192: pushbuttonPillow1
+    100194: pushbuttonPillow2
+    100196: pushbuttonpjoint1
+    100198: pushbuttonpjoint1 1
+    100200: pushbuttonpjoint2
+    100202: pushbuttonpjoint5
+    100204: pushbuttonpjoint6
+    100206: pushbuttonpjoint7
+    100208: pushbuttonpLeftArm
+    100210: pushbuttonpLeftElbow
+    100212: pushbuttonpLeftFoot
+    100214: pushbuttonpLeftHand
+    100216: pushbuttonpLeftKnee
+    100218: pushbuttonpLeftLeg
+    100220: pushbuttonpLeftShoulder
+    100222: pushbuttonplegjoint12
+    100224: pushbuttonplegjoint13
+    100226: pushbuttonplegjoint17
+    100228: pushbuttonplegjoint18
+    100230: pushbuttonpNeck
+    100232: pushbuttonPopCornpCube10
+    100234: pushbuttonPopCornpCube11
+    100236: pushbuttonPopCornpCube12
+    100238: pushbuttonPopCornpCube13
+    100240: pushbuttonPopCornpCube14
+    100242: pushbuttonPopCornpCube15
+    100244: pushbuttonPopCornpCube16
+    100246: pushbuttonPopCornpCube17
+    100248: pushbuttonPopCornpCube18
+    100250: pushbuttonPopCornpCube19
+    100252: pushbuttonPopCornpCube20
+    100254: pushbuttonPopCornpCube21
+    100256: pushbuttonPopCornpCube22
+    100258: pushbuttonPopCornpCube23
+    100260: pushbuttonPopCornpCube24
+    100262: pushbuttonPopCornpCube25
+    100264: pushbuttonPopCornpCube26
+    100266: pushbuttonPopCornpCube27
+    100268: pushbuttonPopCornpCube28
+    100270: pushbuttonPopCornpCube29
+    100272: pushbuttonPopCornpCube30
+    100274: pushbuttonPopCornpCube31
+    100276: pushbuttonPopCornpCube32
+    100278: pushbuttonPopCornpCube33
+    100280: pushbuttonPopCornpCube34
+    100282: pushbuttonPopCornpCube35
+    100284: pushbuttonPopCornpCube36
+    100286: pushbuttonPopCornpCube37
+    100288: pushbuttonPopCornpCube38
+    100290: pushbuttonPopCornpCube39
+    100292: pushbuttonPopCornpCube40
+    100294: pushbuttonPopCornpCube41
+    100296: pushbuttonPopCornpCube42
+    100298: pushbuttonPopCornpCube43
+    100300: pushbuttonPopCornpCube44
+    100302: pushbuttonPopCornpCube45
+    100304: pushbuttonPopCornpCube46
+    100306: pushbuttonPopCornpCube47
+    100308: pushbuttonPopCornpCube48
+    100310: pushbuttonPopCornpCube5
+    100312: pushbuttonPopCornpCube6
+    100314: pushbuttonPopCornpCube7
+    100316: pushbuttonPopCornpCube8
+    100318: pushbuttonPopCornpCube9
+    100320: pushbuttonPot1
+    100322: pushbuttonpRightArm
+    100324: pushbuttonpRightElbow
+    100326: pushbuttonpRightFoot
+    100328: pushbuttonpRightHand
+    100330: pushbuttonpRightKnee
+    100332: pushbuttonpRightLeg
+    100334: pushbuttonpRightShoulder
+    100336: pushbuttonpSpineBottom
+    100338: pushbuttonpspinejoint1
+    100340: pushbuttonpspinejoint2
+    100342: pushbuttonpspinejoint3
+    100344: pushbuttonpspinejoint4
+    100346: pushbuttonpspinejoint5
+    100348: pushbuttonRedButton
+    100350: pushbuttonRedButton 1
+    100352: pushbuttonRoom
+    100354: pushbuttonTable
+    100356: pushbuttontarmjoint2
+    100358: pushbuttontarmjoint3
+    100360: pushbuttontarmjoint4
+    100362: pushbuttontarmjoint5
+    100364: pushbuttontarmjoint6
+    100366: pushbuttontarmjoint7
+    100368: pushbuttontCharacterBody
+    100370: pushbuttontCharacterBodyjoint1
+    100372: pushbuttontCharacterCenter
+    100374: pushbuttontfingerjoint1
+    100376: pushbuttontfingerjoint10
+    100378: pushbuttontfingerjoint11
+    100380: pushbuttontfingerjoint12
+    100382: pushbuttontfingerjoint13
+    100384: pushbuttontfingerjoint2
+    100386: pushbuttontfingerjoint2 1
+    100388: pushbuttontfingerjoint2 2
+    100390: pushbuttontfingerjoint3
+    100392: pushbuttontfingerjoint3 1
+    100394: pushbuttontfingerjoint4
+    100396: pushbuttontfingerjoint5
+    100398: pushbuttontfingerjoint6
+    100400: pushbuttontfingerjoint7
+    100402: pushbuttontfingerjoint8
+    100404: pushbuttontfingerjoint9
+    100406: pushbuttontjoint1
+    100408: pushbuttontjoint1 1
+    100410: pushbuttontjoint2
+    100412: pushbuttontjoint3
+    100414: pushbuttontjoint4
+    100416: pushbuttontjoint5
+    100418: pushbuttontjoint6
+    100420: pushbuttontjoint7
+    100422: pushbuttontjoint8
+    100424: pushbuttontlegjoint10
+    100426: pushbuttontlegjoint11
+    100428: pushbuttontlegjoint12
+    100430: pushbuttontlegjoint13
+    100432: pushbuttontlegjoint14
+    100434: pushbuttontlegjoint15
+    100436: pushbuttontlegjoint16
+    100438: pushbuttontlegjoint17
+    100440: pushbuttontlegjoint18
+    100442: pushbuttontlegjoint9
+    100444: pushbuttonTNTDetonator
+    100446: pushbuttontspinejoint1
+    100448: pushbuttontspinejoint2
+    100450: pushbuttontspinejoint3
+    100452: pushbuttontspinejoint4
+    100454: pushbuttontspinejoint5
+    100456: pushbuttontspinejoint6
+    100458: pushbuttontspinejoint7
+    100460: pushbuttonTV
+    100462: pushbuttonTV1
+    100464: pushbuttonyarmjoint2
+    100466: pushbuttonyarmjoint3
+    100468: pushbuttonyarmjoint4
+    100470: pushbuttonyarmjoint5
+    100472: pushbuttonyarmjoint6
+    100474: pushbuttonyarmjoint7
+    100476: pushbuttonyCharacterBody
+    100478: pushbuttonyCharacterBodyjoint1
+    100480: pushbuttonyCharacterCenter
+    100482: pushbuttonyfingerjoint1
+    100484: pushbuttonyfingerjoint10
+    100486: pushbuttonyfingerjoint11
+    100488: pushbuttonyfingerjoint12
+    100490: pushbuttonyfingerjoint13
+    100492: pushbuttonyfingerjoint2
+    100494: pushbuttonyfingerjoint2 1
+    100496: pushbuttonyfingerjoint2 2
+    100498: pushbuttonyfingerjoint3
+    100500: pushbuttonyfingerjoint3 1
+    100502: pushbuttonyfingerjoint4
+    100504: pushbuttonyfingerjoint5
+    100506: pushbuttonyfingerjoint6
+    100508: pushbuttonyfingerjoint7
+    100510: pushbuttonyfingerjoint8
+    100512: pushbuttonyfingerjoint9
+    100514: pushbuttonyjoint1
+    100516: pushbuttonyjoint1 1
+    100518: pushbuttonyjoint2
+    100520: pushbuttonyjoint3
+    100522: pushbuttonyjoint4
+    100524: pushbuttonyjoint5
+    100526: pushbuttonyjoint6
+    100528: pushbuttonyjoint7
+    100530: pushbuttonyjoint8
+    100532: pushbuttonylegjoint10
+    100534: pushbuttonylegjoint11
+    100536: pushbuttonylegjoint12
+    100538: pushbuttonylegjoint13
+    100540: pushbuttonylegjoint14
+    100542: pushbuttonylegjoint15
+    100544: pushbuttonylegjoint16
+    100546: pushbuttonylegjoint17
+    100548: pushbuttonylegjoint18
+    100550: pushbuttonylegjoint9
+    100552: pushbuttonyspinejoint1
+    100554: pushbuttonyspinejoint2
+    100556: pushbuttonyspinejoint3
+    100558: pushbuttonyspinejoint4
+    100560: pushbuttonyspinejoint5
+    100562: pushbuttonyspinejoint6
+    100564: pushbuttonyspinejoint7
+    100566: //RootNode
+    400000: Group8898
+    400002: pushbuttonButton
+    400004: pushbuttonButton 1
+    400006: pushbuttonButton1
+    400008: pushbuttonButton1 1
+    400010: pushbuttonButton2
+    400012: pushbuttonButton2 1
+    400014: pushbuttoncarmjoint2
+    400016: pushbuttoncarmjoint3
+    400018: pushbuttoncarmjoint4
+    400020: pushbuttoncarmjoint5
+    400022: pushbuttoncarmjoint6
+    400024: pushbuttoncarmjoint7
+    400026: pushbuttoncarpet
+    400028: pushbuttoncCharacterBody
+    400030: pushbuttoncCharacterBodyjoint1
+    400032: pushbuttoncCharacterCenter
+    400034: pushbuttoncfingerjoint1
+    400036: pushbuttoncfingerjoint10
+    400038: pushbuttoncfingerjoint11
+    400040: pushbuttoncfingerjoint12
+    400042: pushbuttoncfingerjoint13
+    400044: pushbuttoncfingerjoint2
+    400046: pushbuttoncfingerjoint2 1
+    400048: pushbuttoncfingerjoint2 2
+    400050: pushbuttoncfingerjoint3
+    400052: pushbuttoncfingerjoint3 1
+    400054: pushbuttoncfingerjoint4
+    400056: pushbuttoncfingerjoint5
+    400058: pushbuttoncfingerjoint6
+    400060: pushbuttoncfingerjoint7
+    400062: pushbuttoncfingerjoint8
+    400064: pushbuttoncfingerjoint9
+    400066: pushbuttoncjoint1
+    400068: pushbuttoncjoint1 1
+    400070: pushbuttoncjoint2
+    400072: pushbuttoncjoint3
+    400074: pushbuttoncjoint4
+    400076: pushbuttoncjoint5
+    400078: pushbuttoncjoint6
+    400080: pushbuttoncjoint7
+    400082: pushbuttoncjoint8
+    400084: pushbuttonclegjoint10
+    400086: pushbuttonclegjoint11
+    400088: pushbuttonclegjoint12
+    400090: pushbuttonclegjoint13
+    400092: pushbuttonclegjoint14
+    400094: pushbuttonclegjoint15
+    400096: pushbuttonclegjoint16
+    400098: pushbuttonclegjoint17
+    400100: pushbuttonclegjoint18
+    400102: pushbuttonclegjoint9
+    400104: pushbuttoncspinejoint1
+    400106: pushbuttoncspinejoint2
+    400108: pushbuttoncspinejoint3
+    400110: pushbuttoncspinejoint4
+    400112: pushbuttoncspinejoint5
+    400114: pushbuttoncspinejoint6
+    400116: pushbuttoncspinejoint7
+    400118: pushbuttonFootControl
+    400120: pushbuttonFootController
+    400122: pushbuttonikHandle1
+    400124: pushbuttonikHandle2
+    400126: pushbuttonikHandle3
+    400128: pushbuttonikHandle4
+    400130: pushbuttonPainting
+    400132: pushbuttonpCharacterBody
+    400134: pushbuttonpCharacterBodyjoint1
+    400136: pushbuttonpCharacterCenter
+    400138: pushbuttonpCube1
+    400140: pushbuttonpCube2
+    400142: pushbuttonpCube3
+    400144: pushbuttonpCube4
+    400146: pushbuttonpCylinder1
+    400148: pushbuttonpCylinder2
+    400150: pushbuttonpfingerjoint1
+    400152: pushbuttonpfingerjoint10
+    400154: pushbuttonpfingerjoint11
+    400156: pushbuttonpfingerjoint12
+    400158: pushbuttonpfingerjoint13
+    400160: pushbuttonpfingerjoint2
+    400162: pushbuttonpfingerjoint2 1
+    400164: pushbuttonpfingerjoint2 2
+    400166: pushbuttonpfingerjoint3
+    400168: pushbuttonpfingerjoint3 1
+    400170: pushbuttonpfingerjoint4
+    400172: pushbuttonpfingerjoint5
+    400174: pushbuttonpfingerjoint6
+    400176: pushbuttonpfingerjoint7
+    400178: pushbuttonpfingerjoint8
+    400180: pushbuttonpfingerjoint9
+    400182: pushbuttonpHandControl1
+    400184: pushbuttonpHandControl2
+    400186: pushbuttonpHandControl3
+    400188: pushbuttonpHead
+    400190: pushbuttonPillow
+    400192: pushbuttonPillow1
+    400194: pushbuttonPillow2
+    400196: pushbuttonpjoint1
+    400198: pushbuttonpjoint1 1
+    400200: pushbuttonpjoint2
+    400202: pushbuttonpjoint5
+    400204: pushbuttonpjoint6
+    400206: pushbuttonpjoint7
+    400208: pushbuttonpLeftArm
+    400210: pushbuttonpLeftElbow
+    400212: pushbuttonpLeftFoot
+    400214: pushbuttonpLeftHand
+    400216: pushbuttonpLeftKnee
+    400218: pushbuttonpLeftLeg
+    400220: pushbuttonpLeftShoulder
+    400222: pushbuttonplegjoint12
+    400224: pushbuttonplegjoint13
+    400226: pushbuttonplegjoint17
+    400228: pushbuttonplegjoint18
+    400230: pushbuttonpNeck
+    400232: pushbuttonPopCornpCube10
+    400234: pushbuttonPopCornpCube11
+    400236: pushbuttonPopCornpCube12
+    400238: pushbuttonPopCornpCube13
+    400240: pushbuttonPopCornpCube14
+    400242: pushbuttonPopCornpCube15
+    400244: pushbuttonPopCornpCube16
+    400246: pushbuttonPopCornpCube17
+    400248: pushbuttonPopCornpCube18
+    400250: pushbuttonPopCornpCube19
+    400252: pushbuttonPopCornpCube20
+    400254: pushbuttonPopCornpCube21
+    400256: pushbuttonPopCornpCube22
+    400258: pushbuttonPopCornpCube23
+    400260: pushbuttonPopCornpCube24
+    400262: pushbuttonPopCornpCube25
+    400264: pushbuttonPopCornpCube26
+    400266: pushbuttonPopCornpCube27
+    400268: pushbuttonPopCornpCube28
+    400270: pushbuttonPopCornpCube29
+    400272: pushbuttonPopCornpCube30
+    400274: pushbuttonPopCornpCube31
+    400276: pushbuttonPopCornpCube32
+    400278: pushbuttonPopCornpCube33
+    400280: pushbuttonPopCornpCube34
+    400282: pushbuttonPopCornpCube35
+    400284: pushbuttonPopCornpCube36
+    400286: pushbuttonPopCornpCube37
+    400288: pushbuttonPopCornpCube38
+    400290: pushbuttonPopCornpCube39
+    400292: pushbuttonPopCornpCube40
+    400294: pushbuttonPopCornpCube41
+    400296: pushbuttonPopCornpCube42
+    400298: pushbuttonPopCornpCube43
+    400300: pushbuttonPopCornpCube44
+    400302: pushbuttonPopCornpCube45
+    400304: pushbuttonPopCornpCube46
+    400306: pushbuttonPopCornpCube47
+    400308: pushbuttonPopCornpCube48
+    400310: pushbuttonPopCornpCube5
+    400312: pushbuttonPopCornpCube6
+    400314: pushbuttonPopCornpCube7
+    400316: pushbuttonPopCornpCube8
+    400318: pushbuttonPopCornpCube9
+    400320: pushbuttonPot1
+    400322: pushbuttonpRightArm
+    400324: pushbuttonpRightElbow
+    400326: pushbuttonpRightFoot
+    400328: pushbuttonpRightHand
+    400330: pushbuttonpRightKnee
+    400332: pushbuttonpRightLeg
+    400334: pushbuttonpRightShoulder
+    400336: pushbuttonpSpineBottom
+    400338: pushbuttonpspinejoint1
+    400340: pushbuttonpspinejoint2
+    400342: pushbuttonpspinejoint3
+    400344: pushbuttonpspinejoint4
+    400346: pushbuttonpspinejoint5
+    400348: pushbuttonRedButton
+    400350: pushbuttonRedButton 1
+    400352: pushbuttonRoom
+    400354: pushbuttonTable
+    400356: pushbuttontarmjoint2
+    400358: pushbuttontarmjoint3
+    400360: pushbuttontarmjoint4
+    400362: pushbuttontarmjoint5
+    400364: pushbuttontarmjoint6
+    400366: pushbuttontarmjoint7
+    400368: pushbuttontCharacterBody
+    400370: pushbuttontCharacterBodyjoint1
+    400372: pushbuttontCharacterCenter
+    400374: pushbuttontfingerjoint1
+    400376: pushbuttontfingerjoint10
+    400378: pushbuttontfingerjoint11
+    400380: pushbuttontfingerjoint12
+    400382: pushbuttontfingerjoint13
+    400384: pushbuttontfingerjoint2
+    400386: pushbuttontfingerjoint2 1
+    400388: pushbuttontfingerjoint2 2
+    400390: pushbuttontfingerjoint3
+    400392: pushbuttontfingerjoint3 1
+    400394: pushbuttontfingerjoint4
+    400396: pushbuttontfingerjoint5
+    400398: pushbuttontfingerjoint6
+    400400: pushbuttontfingerjoint7
+    400402: pushbuttontfingerjoint8
+    400404: pushbuttontfingerjoint9
+    400406: pushbuttontjoint1
+    400408: pushbuttontjoint1 1
+    400410: pushbuttontjoint2
+    400412: pushbuttontjoint3
+    400414: pushbuttontjoint4
+    400416: pushbuttontjoint5
+    400418: pushbuttontjoint6
+    400420: pushbuttontjoint7
+    400422: pushbuttontjoint8
+    400424: pushbuttontlegjoint10
+    400426: pushbuttontlegjoint11
+    400428: pushbuttontlegjoint12
+    400430: pushbuttontlegjoint13
+    400432: pushbuttontlegjoint14
+    400434: pushbuttontlegjoint15
+    400436: pushbuttontlegjoint16
+    400438: pushbuttontlegjoint17
+    400440: pushbuttontlegjoint18
+    400442: pushbuttontlegjoint9
+    400444: pushbuttonTNTDetonator
+    400446: pushbuttontspinejoint1
+    400448: pushbuttontspinejoint2
+    400450: pushbuttontspinejoint3
+    400452: pushbuttontspinejoint4
+    400454: pushbuttontspinejoint5
+    400456: pushbuttontspinejoint6
+    400458: pushbuttontspinejoint7
+    400460: pushbuttonTV
+    400462: pushbuttonTV1
+    400464: pushbuttonyarmjoint2
+    400466: pushbuttonyarmjoint3
+    400468: pushbuttonyarmjoint4
+    400470: pushbuttonyarmjoint5
+    400472: pushbuttonyarmjoint6
+    400474: pushbuttonyarmjoint7
+    400476: pushbuttonyCharacterBody
+    400478: pushbuttonyCharacterBodyjoint1
+    400480: pushbuttonyCharacterCenter
+    400482: pushbuttonyfingerjoint1
+    400484: pushbuttonyfingerjoint10
+    400486: pushbuttonyfingerjoint11
+    400488: pushbuttonyfingerjoint12
+    400490: pushbuttonyfingerjoint13
+    400492: pushbuttonyfingerjoint2
+    400494: pushbuttonyfingerjoint2 1
+    400496: pushbuttonyfingerjoint2 2
+    400498: pushbuttonyfingerjoint3
+    400500: pushbuttonyfingerjoint3 1
+    400502: pushbuttonyfingerjoint4
+    400504: pushbuttonyfingerjoint5
+    400506: pushbuttonyfingerjoint6
+    400508: pushbuttonyfingerjoint7
+    400510: pushbuttonyfingerjoint8
+    400512: pushbuttonyfingerjoint9
+    400514: pushbuttonyjoint1
+    400516: pushbuttonyjoint1 1
+    400518: pushbuttonyjoint2
+    400520: pushbuttonyjoint3
+    400522: pushbuttonyjoint4
+    400524: pushbuttonyjoint5
+    400526: pushbuttonyjoint6
+    400528: pushbuttonyjoint7
+    400530: pushbuttonyjoint8
+    400532: pushbuttonylegjoint10
+    400534: pushbuttonylegjoint11
+    400536: pushbuttonylegjoint12
+    400538: pushbuttonylegjoint13
+    400540: pushbuttonylegjoint14
+    400542: pushbuttonylegjoint15
+    400544: pushbuttonylegjoint16
+    400546: pushbuttonylegjoint17
+    400548: pushbuttonylegjoint18
+    400550: pushbuttonylegjoint9
+    400552: pushbuttonyspinejoint1
+    400554: pushbuttonyspinejoint2
+    400556: pushbuttonyspinejoint3
+    400558: pushbuttonyspinejoint4
+    400560: pushbuttonyspinejoint5
+    400562: pushbuttonyspinejoint6
+    400564: pushbuttonyspinejoint7
+    400566: //RootNode
+    2300000: Group8898
+    2300002: pushbuttonButton
+    2300004: pushbuttonButton 1
+    2300006: pushbuttonButton1
+    2300008: pushbuttonButton1 1
+    2300010: pushbuttonButton2
+    2300012: pushbuttonButton2 1
+    2300014: pushbuttoncarpet
+    2300016: pushbuttonPainting
+    2300018: pushbuttonpCube1
+    2300020: pushbuttonpCube2
+    2300022: pushbuttonpCube3
+    2300024: pushbuttonpCube4
+    2300026: pushbuttonpCylinder1
+    2300028: pushbuttonpCylinder2
+    2300030: pushbuttonpHandControl1
+    2300032: pushbuttonpHandControl2
+    2300034: pushbuttonpHandControl3
+    2300036: pushbuttonPillow
+    2300038: pushbuttonPillow1
+    2300040: pushbuttonPillow2
+    2300042: pushbuttonPopCornpCube10
+    2300044: pushbuttonPopCornpCube11
+    2300046: pushbuttonPopCornpCube12
+    2300048: pushbuttonPopCornpCube13
+    2300050: pushbuttonPopCornpCube14
+    2300052: pushbuttonPopCornpCube15
+    2300054: pushbuttonPopCornpCube16
+    2300056: pushbuttonPopCornpCube17
+    2300058: pushbuttonPopCornpCube18
+    2300060: pushbuttonPopCornpCube19
+    2300062: pushbuttonPopCornpCube20
+    2300064: pushbuttonPopCornpCube21
+    2300066: pushbuttonPopCornpCube22
+    2300068: pushbuttonPopCornpCube23
+    2300070: pushbuttonPopCornpCube24
+    2300072: pushbuttonPopCornpCube25
+    2300074: pushbuttonPopCornpCube26
+    2300076: pushbuttonPopCornpCube27
+    2300078: pushbuttonPopCornpCube28
+    2300080: pushbuttonPopCornpCube29
+    2300082: pushbuttonPopCornpCube30
+    2300084: pushbuttonPopCornpCube31
+    2300086: pushbuttonPopCornpCube32
+    2300088: pushbuttonPopCornpCube33
+    2300090: pushbuttonPopCornpCube34
+    2300092: pushbuttonPopCornpCube35
+    2300094: pushbuttonPopCornpCube36
+    2300096: pushbuttonPopCornpCube37
+    2300098: pushbuttonPopCornpCube38
+    2300100: pushbuttonPopCornpCube39
+    2300102: pushbuttonPopCornpCube40
+    2300104: pushbuttonPopCornpCube41
+    2300106: pushbuttonPopCornpCube42
+    2300108: pushbuttonPopCornpCube43
+    2300110: pushbuttonPopCornpCube44
+    2300112: pushbuttonPopCornpCube45
+    2300114: pushbuttonPopCornpCube46
+    2300116: pushbuttonPopCornpCube47
+    2300118: pushbuttonPopCornpCube48
+    2300120: pushbuttonPopCornpCube5
+    2300122: pushbuttonPopCornpCube6
+    2300124: pushbuttonPopCornpCube7
+    2300126: pushbuttonPopCornpCube8
+    2300128: pushbuttonPopCornpCube9
+    2300130: pushbuttonPot1
+    2300132: pushbuttonRedButton
+    2300134: pushbuttonRedButton 1
+    2300136: pushbuttonRoom
+    2300138: pushbuttonTable
+    2300140: pushbuttonTNTDetonator
+    2300142: pushbuttonTV
+    2300144: pushbuttonTV1
+    3300000: Group8898
+    3300002: pushbuttonButton
+    3300004: pushbuttonButton 1
+    3300006: pushbuttonButton1
+    3300008: pushbuttonButton1 1
+    3300010: pushbuttonButton2
+    3300012: pushbuttonButton2 1
+    3300014: pushbuttoncarpet
+    3300016: pushbuttonPainting
+    3300018: pushbuttonpCube1
+    3300020: pushbuttonpCube2
+    3300022: pushbuttonpCube3
+    3300024: pushbuttonpCube4
+    3300026: pushbuttonpCylinder1
+    3300028: pushbuttonpCylinder2
+    3300030: pushbuttonpHandControl1
+    3300032: pushbuttonpHandControl2
+    3300034: pushbuttonpHandControl3
+    3300036: pushbuttonPillow
+    3300038: pushbuttonPillow1
+    3300040: pushbuttonPillow2
+    3300042: pushbuttonPopCornpCube10
+    3300044: pushbuttonPopCornpCube11
+    3300046: pushbuttonPopCornpCube12
+    3300048: pushbuttonPopCornpCube13
+    3300050: pushbuttonPopCornpCube14
+    3300052: pushbuttonPopCornpCube15
+    3300054: pushbuttonPopCornpCube16
+    3300056: pushbuttonPopCornpCube17
+    3300058: pushbuttonPopCornpCube18
+    3300060: pushbuttonPopCornpCube19
+    3300062: pushbuttonPopCornpCube20
+    3300064: pushbuttonPopCornpCube21
+    3300066: pushbuttonPopCornpCube22
+    3300068: pushbuttonPopCornpCube23
+    3300070: pushbuttonPopCornpCube24
+    3300072: pushbuttonPopCornpCube25
+    3300074: pushbuttonPopCornpCube26
+    3300076: pushbuttonPopCornpCube27
+    3300078: pushbuttonPopCornpCube28
+    3300080: pushbuttonPopCornpCube29
+    3300082: pushbuttonPopCornpCube30
+    3300084: pushbuttonPopCornpCube31
+    3300086: pushbuttonPopCornpCube32
+    3300088: pushbuttonPopCornpCube33
+    3300090: pushbuttonPopCornpCube34
+    3300092: pushbuttonPopCornpCube35
+    3300094: pushbuttonPopCornpCube36
+    3300096: pushbuttonPopCornpCube37
+    3300098: pushbuttonPopCornpCube38
+    3300100: pushbuttonPopCornpCube39
+    3300102: pushbuttonPopCornpCube40
+    3300104: pushbuttonPopCornpCube41
+    3300106: pushbuttonPopCornpCube42
+    3300108: pushbuttonPopCornpCube43
+    3300110: pushbuttonPopCornpCube44
+    3300112: pushbuttonPopCornpCube45
+    3300114: pushbuttonPopCornpCube46
+    3300116: pushbuttonPopCornpCube47
+    3300118: pushbuttonPopCornpCube48
+    3300120: pushbuttonPopCornpCube5
+    3300122: pushbuttonPopCornpCube6
+    3300124: pushbuttonPopCornpCube7
+    3300126: pushbuttonPopCornpCube8
+    3300128: pushbuttonPopCornpCube9
+    3300130: pushbuttonPot1
+    3300132: pushbuttonRedButton
+    3300134: pushbuttonRedButton 1
+    3300136: pushbuttonRoom
+    3300138: pushbuttonTable
+    3300140: pushbuttonTNTDetonator
+    3300142: pushbuttonTV
+    3300144: pushbuttonTV1
+    4300000: pushbuttonyCharacterBody
+    4300002: pushbuttonPillow2
+    4300004: pushbuttonPot1
+    4300006: pushbuttontCharacterBody
+    4300008: pushbuttoncCharacterBody
+    4300010: pushbuttoncarpet
+    4300012: pushbuttonTV1
+    4300014: pushbuttonButton
+    4300016: pushbuttonButton2
+    4300018: pushbuttonButton1
+    4300020: pushbuttonRedButton
+    4300022: pushbuttonPainting
+    4300024: pushbuttonPopCornpCube36
+    4300026: pushbuttonPopCornpCube37
+    4300028: pushbuttonPopCornpCube38
+    4300030: pushbuttonPopCornpCube39
+    4300032: pushbuttonPopCornpCube40
+    4300034: pushbuttonPopCornpCube41
+    4300036: pushbuttonPopCornpCube42
+    4300038: pushbuttonPopCornpCube43
+    4300040: pushbuttonPopCornpCube44
+    4300042: pushbuttonPopCornpCube45
+    4300044: pushbuttonPopCornpCube46
+    4300046: pushbuttonPopCornpCube47
+    4300048: pushbuttonPopCornpCube48
+    4300050: pushbuttonPopCornpCube35
+    4300052: pushbuttonPopCornpCube34
+    4300054: pushbuttonPopCornpCube33
+    4300056: pushbuttonPopCornpCube32
+    4300058: pushbuttonPopCornpCube31
+    4300060: pushbuttonPopCornpCube30
+    4300062: pushbuttonPopCornpCube29
+    4300064: pushbuttonPopCornpCube28
+    4300066: pushbuttonPopCornpCube27
+    4300068: pushbuttonPopCornpCube26
+    4300070: pushbuttonPopCornpCube25
+    4300072: pushbuttonPopCornpCube24
+    4300074: pushbuttonPopCornpCube23
+    4300076: pushbuttonPopCornpCube22
+    4300078: pushbuttonPopCornpCube21
+    4300080: pushbuttonPopCornpCube20
+    4300082: pushbuttonPopCornpCube19
+    4300084: pushbuttonPopCornpCube18
+    4300086: pushbuttonPopCornpCube17
+    4300088: pushbuttonPopCornpCube16
+    4300090: pushbuttonPopCornpCube15
+    4300092: pushbuttonPopCornpCube14
+    4300094: pushbuttonPopCornpCube13
+    4300096: pushbuttonPopCornpCube12
+    4300098: pushbuttonPopCornpCube11
+    4300100: pushbuttonPopCornpCube10
+    4300102: pushbuttonPopCornpCube9
+    4300104: pushbuttonPopCornpCube8
+    4300106: pushbuttonPopCornpCube7
+    4300108: pushbuttonPopCornpCube6
+    4300110: pushbuttonPopCornpCube5
+    4300112: Group8898
+    4300114: pushbuttonTV
+    4300116: pushbuttonButton
+    4300118: pushbuttonButton2
+    4300120: pushbuttonButton1
+    4300122: pushbuttonRedButton
+    4300124: pushbuttonpCylinder2
+    4300126: pushbuttonpCylinder1
+    4300128: pushbuttonPillow1
+    4300130: pushbuttonPillow
+    4300132: pushbuttonpCube4
+    4300134: pushbuttonpCube3
+    4300136: pushbuttonpCube2
+    4300138: pushbuttonRoom
+    4300140: pushbuttonTable
+    4300142: pushbuttonpCharacterBody
+    4300144: pushbuttonpCube1
+    4300146: pushbuttonpHandControl3
+    4300148: pushbuttonpHandControl2
+    4300150: pushbuttonpHandControl1
+    4300152: pushbuttonTNTDetonator
+    7400000: TrailerSceneIntro_Pushbutton
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pushbuttoncCharacterBody
+    13700002: pushbuttonpCharacterBody
+    13700004: pushbuttontCharacterBody
+    13700006: pushbuttonyCharacterBody
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TrailerSceneIntro_Pushbutton
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group8898
+        weight: 1
+      - path: pushbuttoncarpet
+        weight: 1
+      - path: pushbuttoncCharacterBody
+        weight: 1
+      - path: pushbuttoncCharacterCenter
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint1/pushbuttoncfingerjoint2
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint1/pushbuttoncfingerjoint2/pushbuttoncjoint1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint1/pushbuttoncfingerjoint2/pushbuttoncjoint1/pushbuttoncfingerjoint3
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint4
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint4/pushbuttoncfingerjoint2
+          1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint4/pushbuttoncfingerjoint2
+          1/pushbuttoncjoint2
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint4/pushbuttoncfingerjoint2
+          1/pushbuttoncjoint2/pushbuttoncfingerjoint3 1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint5
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint5/pushbuttoncfingerjoint2
+          2
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint3/pushbuttoncarmjoint2/pushbuttoncarmjoint3/pushbuttoncarmjoint4/pushbuttoncfingerjoint5/pushbuttoncfingerjoint2
+          2/pushbuttoncjoint1 1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint6
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint6/pushbuttoncfingerjoint7
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint6/pushbuttoncfingerjoint7/pushbuttoncjoint5
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint8
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint8/pushbuttoncfingerjoint9
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint8/pushbuttoncfingerjoint9/pushbuttoncjoint6
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint8/pushbuttoncfingerjoint9/pushbuttoncjoint6/pushbuttoncfingerjoint10
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint11
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint11/pushbuttoncfingerjoint12
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint11/pushbuttoncfingerjoint12/pushbuttoncjoint7
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttoncfingerjoint11/pushbuttoncfingerjoint12/pushbuttoncjoint7/pushbuttoncfingerjoint13
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncjoint4/pushbuttoncarmjoint5/pushbuttoncarmjoint6/pushbuttoncarmjoint7/pushbuttonpHandControl1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncspinejoint6
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttoncjoint8/pushbuttoncspinejoint2/pushbuttoncspinejoint3/pushbuttoncspinejoint4/pushbuttoncspinejoint5/pushbuttoncspinejoint6/pushbuttoncspinejoint7
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint9
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint9/pushbuttonclegjoint10
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint9/pushbuttonclegjoint10/pushbuttonclegjoint11
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint9/pushbuttonclegjoint10/pushbuttonclegjoint11/pushbuttonclegjoint12
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint9/pushbuttonclegjoint10/pushbuttonclegjoint11/pushbuttonclegjoint12/pushbuttonclegjoint13
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint14
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint14/pushbuttonclegjoint15
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint14/pushbuttonclegjoint15/pushbuttonclegjoint16
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint14/pushbuttonclegjoint15/pushbuttonclegjoint16/pushbuttonclegjoint17
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttoncCharacterBodyjoint1/pushbuttoncspinejoint1/pushbuttonclegjoint14/pushbuttonclegjoint15/pushbuttonclegjoint16/pushbuttonclegjoint17/pushbuttonclegjoint18
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttonFootControl
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttonFootControl/pushbuttonikHandle1
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttonFootControl/pushbuttonikHandle2
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttonFootController
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttonFootController/pushbuttonikHandle3
+        weight: 1
+      - path: pushbuttoncCharacterCenter/pushbuttonFootController/pushbuttonikHandle4
+        weight: 1
+      - path: pushbuttonPainting
+        weight: 1
+      - path: pushbuttonpCharacterBody
+        weight: 1
+      - path: pushbuttonpCharacterCenter
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpLeftLeg
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpLeftLeg/pushbuttonpLeftKnee
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpLeftLeg/pushbuttonpLeftKnee/pushbuttonpLeftFoot
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpLeftLeg/pushbuttonpLeftKnee/pushbuttonpLeftFoot/pushbuttonplegjoint12
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpLeftLeg/pushbuttonpLeftKnee/pushbuttonpLeftFoot/pushbuttonplegjoint12/pushbuttonplegjoint13
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpRightLeg
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpRightLeg/pushbuttonpRightKnee
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpRightLeg/pushbuttonpRightKnee/pushbuttonpRightFoot
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpRightLeg/pushbuttonpRightKnee/pushbuttonpRightFoot/pushbuttonplegjoint17
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpRightLeg/pushbuttonpRightKnee/pushbuttonpRightFoot/pushbuttonplegjoint17/pushbuttonplegjoint18
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint1
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint1/pushbuttonpfingerjoint2
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint1/pushbuttonpfingerjoint2/pushbuttonpjoint1
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint1/pushbuttonpfingerjoint2/pushbuttonpjoint1/pushbuttonpfingerjoint3
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint4
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint4/pushbuttonpfingerjoint2
+          1
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint4/pushbuttonpfingerjoint2
+          1/pushbuttonpjoint2
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint4/pushbuttonpfingerjoint2
+          1/pushbuttonpjoint2/pushbuttonpfingerjoint3 1
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint5
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint5/pushbuttonpfingerjoint2
+          2
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpLeftArm/pushbuttonpLeftShoulder/pushbuttonpLeftElbow/pushbuttonpLeftHand/pushbuttonpfingerjoint5/pushbuttonpfingerjoint2
+          2/pushbuttonpjoint1 1
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpNeck
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpNeck/pushbuttonpHead
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint6
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint6/pushbuttonpfingerjoint7
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint6/pushbuttonpfingerjoint7/pushbuttonpjoint5
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint8
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint8/pushbuttonpfingerjoint9
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint8/pushbuttonpfingerjoint9/pushbuttonpjoint6
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint8/pushbuttonpfingerjoint9/pushbuttonpjoint6/pushbuttonpfingerjoint10
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint11
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint11/pushbuttonpfingerjoint12
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint11/pushbuttonpfingerjoint12/pushbuttonpjoint7
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonpfingerjoint11/pushbuttonpfingerjoint12/pushbuttonpjoint7/pushbuttonpfingerjoint13
+        weight: 1
+      - path: pushbuttonpCharacterCenter/pushbuttonpCharacterBodyjoint1/pushbuttonpspinejoint1/pushbuttonpSpineBottom/pushbuttonpspinejoint2/pushbuttonpspinejoint3/pushbuttonpspinejoint4/pushbuttonpspinejoint5/pushbuttonpRightArm/pushbuttonpRightShoulder/pushbuttonpRightElbow/pushbuttonpRightHand/pushbuttonTNTDetonator
+        weight: 1
+      - path: pushbuttonpCube1
+        weight: 1
+      - path: pushbuttonpCube2
+        weight: 1
+      - path: pushbuttonpCube3
+        weight: 1
+      - path: pushbuttonpCube4
+        weight: 1
+      - path: pushbuttonpCylinder1
+        weight: 1
+      - path: pushbuttonpCylinder2
+        weight: 1
+      - path: pushbuttonPillow
+        weight: 1
+      - path: pushbuttonPillow1
+        weight: 1
+      - path: pushbuttonPillow2
+        weight: 1
+      - path: pushbuttonPopCornpCube36
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube5
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube6
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube7
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube8
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube9
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube10
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube11
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube12
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube13
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube14
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube15
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube16
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube17
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube18
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube19
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube20
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube21
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube22
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube23
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube24
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube25
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube26
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube27
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube28
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube29
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube30
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube31
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube32
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube33
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube34
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube35
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube37
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube38
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube39
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube40
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube41
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube42
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube43
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube44
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube45
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube46
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube47
+        weight: 1
+      - path: pushbuttonPopCornpCube36/pushbuttonPopCornpCube48
+        weight: 1
+      - path: pushbuttonPot1
+        weight: 1
+      - path: pushbuttonRoom
+        weight: 1
+      - path: pushbuttonTable
+        weight: 1
+      - path: pushbuttontCharacterBody
+        weight: 1
+      - path: pushbuttontCharacterCenter
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint1
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint1/pushbuttontfingerjoint2
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint1/pushbuttontfingerjoint2/pushbuttontjoint1
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint1/pushbuttontfingerjoint2/pushbuttontjoint1/pushbuttontfingerjoint3
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint4
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint4/pushbuttontfingerjoint2
+          1
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint4/pushbuttontfingerjoint2
+          1/pushbuttontjoint2
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint4/pushbuttontfingerjoint2
+          1/pushbuttontjoint2/pushbuttontfingerjoint3 1
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint5
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint5/pushbuttontfingerjoint2
+          2
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint3/pushbuttontarmjoint2/pushbuttontarmjoint3/pushbuttontarmjoint4/pushbuttontfingerjoint5/pushbuttontfingerjoint2
+          2/pushbuttontjoint1 1
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttonpHandControl2
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint6
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint6/pushbuttontfingerjoint7
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint6/pushbuttontfingerjoint7/pushbuttontjoint5
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint8
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint8/pushbuttontfingerjoint9
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint8/pushbuttontfingerjoint9/pushbuttontjoint6
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint8/pushbuttontfingerjoint9/pushbuttontjoint6/pushbuttontfingerjoint10
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint11
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint11/pushbuttontfingerjoint12
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint11/pushbuttontfingerjoint12/pushbuttontjoint7
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontjoint4/pushbuttontarmjoint5/pushbuttontarmjoint6/pushbuttontarmjoint7/pushbuttontfingerjoint11/pushbuttontfingerjoint12/pushbuttontjoint7/pushbuttontfingerjoint13
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontspinejoint6
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontjoint8/pushbuttontspinejoint2/pushbuttontspinejoint3/pushbuttontspinejoint4/pushbuttontspinejoint5/pushbuttontspinejoint6/pushbuttontspinejoint7
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint9
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint9/pushbuttontlegjoint10
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint9/pushbuttontlegjoint10/pushbuttontlegjoint11
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint9/pushbuttontlegjoint10/pushbuttontlegjoint11/pushbuttontlegjoint12
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint9/pushbuttontlegjoint10/pushbuttontlegjoint11/pushbuttontlegjoint12/pushbuttontlegjoint13
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint14
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint14/pushbuttontlegjoint15
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint14/pushbuttontlegjoint15/pushbuttontlegjoint16
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint14/pushbuttontlegjoint15/pushbuttontlegjoint16/pushbuttontlegjoint17
+        weight: 1
+      - path: pushbuttontCharacterCenter/pushbuttontCharacterBodyjoint1/pushbuttontspinejoint1/pushbuttontlegjoint14/pushbuttontlegjoint15/pushbuttontlegjoint16/pushbuttontlegjoint17/pushbuttontlegjoint18
+        weight: 1
+      - path: pushbuttonTV
+        weight: 1
+      - path: pushbuttonTV/pushbuttonButton
+        weight: 1
+      - path: pushbuttonTV/pushbuttonButton1
+        weight: 1
+      - path: pushbuttonTV/pushbuttonButton2
+        weight: 1
+      - path: pushbuttonTV/pushbuttonRedButton
+        weight: 1
+      - path: pushbuttonTV1
+        weight: 1
+      - path: pushbuttonTV1/pushbuttonButton 1
+        weight: 1
+      - path: pushbuttonTV1/pushbuttonButton1 1
+        weight: 1
+      - path: pushbuttonTV1/pushbuttonButton2 1
+        weight: 1
+      - path: pushbuttonTV1/pushbuttonRedButton 1
+        weight: 1
+      - path: pushbuttonyCharacterBody
+        weight: 1
+      - path: pushbuttonyCharacterCenter
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint1
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint1/pushbuttonyfingerjoint2
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint1/pushbuttonyfingerjoint2/pushbuttonyjoint1
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint1/pushbuttonyfingerjoint2/pushbuttonyjoint1/pushbuttonyfingerjoint3
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint4
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint4/pushbuttonyfingerjoint2
+          1
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint4/pushbuttonyfingerjoint2
+          1/pushbuttonyjoint2
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint4/pushbuttonyfingerjoint2
+          1/pushbuttonyjoint2/pushbuttonyfingerjoint3 1
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint5
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint5/pushbuttonyfingerjoint2
+          2
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint3/pushbuttonyarmjoint2/pushbuttonyarmjoint3/pushbuttonyarmjoint4/pushbuttonyfingerjoint5/pushbuttonyfingerjoint2
+          2/pushbuttonyjoint1 1
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonpHandControl3
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint6
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint6/pushbuttonyfingerjoint7
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint6/pushbuttonyfingerjoint7/pushbuttonyjoint5
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint8
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint8/pushbuttonyfingerjoint9
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint8/pushbuttonyfingerjoint9/pushbuttonyjoint6
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint8/pushbuttonyfingerjoint9/pushbuttonyjoint6/pushbuttonyfingerjoint10
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint11
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint11/pushbuttonyfingerjoint12
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint11/pushbuttonyfingerjoint12/pushbuttonyjoint7
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyjoint4/pushbuttonyarmjoint5/pushbuttonyarmjoint6/pushbuttonyarmjoint7/pushbuttonyfingerjoint11/pushbuttonyfingerjoint12/pushbuttonyjoint7/pushbuttonyfingerjoint13
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyspinejoint6
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonyjoint8/pushbuttonyspinejoint2/pushbuttonyspinejoint3/pushbuttonyspinejoint4/pushbuttonyspinejoint5/pushbuttonyspinejoint6/pushbuttonyspinejoint7
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint9
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint9/pushbuttonylegjoint10
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint9/pushbuttonylegjoint10/pushbuttonylegjoint11
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint9/pushbuttonylegjoint10/pushbuttonylegjoint11/pushbuttonylegjoint12
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint9/pushbuttonylegjoint10/pushbuttonylegjoint11/pushbuttonylegjoint12/pushbuttonylegjoint13
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint14
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint14/pushbuttonylegjoint15
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint14/pushbuttonylegjoint15/pushbuttonylegjoint16
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint14/pushbuttonylegjoint15/pushbuttonylegjoint16/pushbuttonylegjoint17
+        weight: 1
+      - path: pushbuttonyCharacterCenter/pushbuttonyCharacterBodyjoint1/pushbuttonyspinejoint1/pushbuttonylegjoint14/pushbuttonylegjoint15/pushbuttonylegjoint16/pushbuttonylegjoint17/pushbuttonylegjoint18
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

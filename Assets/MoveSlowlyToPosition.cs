@@ -24,6 +24,12 @@ public class MoveSlowlyToPosition : MonoBehaviour
             return;
         }
 
+        if ((m_targetPosition.position - transform.position).magnitude < 0.01f)
+        {
+            transform.position = m_targetPosition.position;
+            return;
+        }
+
         Vector3 moveDirection = -1 * (transform.position - m_targetPosition.position).normalized;
         transform.position = transform.position + moveDirection * m_moveSpeed * Time.deltaTime;
     }

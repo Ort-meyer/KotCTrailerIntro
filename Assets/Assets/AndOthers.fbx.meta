@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 4fc8b4b233e2004478c23052e7506068
+timeCreated: 1505404604
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AndOthers
+    100004: Background1
+    100006: gunback1
+    100008: Gunman
+    100010: Ninja
+    100012: ninjaback
+    100014: Scientist
+    100016: scientistback
+    400000: //RootNode
+    400002: AndOthers
+    400004: Background1
+    400006: gunback1
+    400008: Gunman
+    400010: Ninja
+    400012: ninjaback
+    400014: Scientist
+    400016: scientistback
+    2300000: AndOthers
+    2300002: Background1
+    2300004: gunback1
+    2300006: Gunman
+    2300008: Ninja
+    2300010: ninjaback
+    2300012: Scientist
+    2300014: scientistback
+    3300000: AndOthers
+    3300002: Background1
+    3300004: gunback1
+    3300006: Gunman
+    3300008: Ninja
+    3300010: ninjaback
+    3300012: Scientist
+    3300014: scientistback
+    4300000: Background1
+    4300002: ninjaback
+    4300004: Ninja
+    4300006: gunback1
+    4300008: scientistback
+    4300010: Gunman
+    4300012: Scientist
+    4300014: AndOthers
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AndOthers
+        weight: 1
+      - path: Background1
+        weight: 1
+      - path: gunback1
+        weight: 1
+      - path: Gunman
+        weight: 1
+      - path: Ninja
+        weight: 1
+      - path: ninjaback
+        weight: 1
+      - path: Scientist
+        weight: 1
+      - path: scientistback
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

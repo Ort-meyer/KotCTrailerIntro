@@ -1108,6 +1108,11 @@ Prefab:
       propertyPath: m_Range
       value: 5.6155148
       objectReference: {fileID: 0}
+    - target: {fileID: 108839075382979264, guid: 4986ae265441e2a479a8517b0a4f7f1b,
+        type: 2}
+      propertyPath: m_Shadows.m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4986ae265441e2a479a8517b0a4f7f1b, type: 2}
   m_IsPrefabParent: 0
@@ -3975,7 +3980,7 @@ Light:
     m_Resolution: 2
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
+    m_Bias: 0.01
     m_NormalBias: 0.4
     m_NearPlane: 0.2
   m_Cookie: {fileID: 0}

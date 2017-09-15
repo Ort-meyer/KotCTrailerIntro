@@ -2139,11 +2139,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4002083686827820, guid: 2bc7218d259b900499f21a6edfb10c3b, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 4.985
+      value: 4.21
       objectReference: {fileID: 0}
     - target: {fileID: 4002083686827820, guid: 2bc7218d259b900499f21a6edfb10c3b, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 1.153
+      value: 1.63
       objectReference: {fileID: 0}
     - target: {fileID: 4002083686827820, guid: 2bc7218d259b900499f21a6edfb10c3b, type: 2}
       propertyPath: m_LocalRotation.x
@@ -2173,7 +2173,7 @@ Prefab:
     - target: {fileID: 198738950220534302, guid: 2bc7218d259b900499f21a6edfb10c3b,
         type: 2}
       propertyPath: randomSeed
-      value: -2104982977
+      value: -2062969143
       objectReference: {fileID: 0}
     - target: {fileID: 198738950220534302, guid: 2bc7218d259b900499f21a6edfb10c3b,
         type: 2}
@@ -2252,6 +2252,19 @@ Prefab:
     - target: {fileID: 4002083686827820, guid: 2bc7218d259b900499f21a6edfb10c3b, type: 2}
       propertyPath: m_LocalScale.z
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198738950220534302, guid: 2bc7218d259b900499f21a6edfb10c3b,
+        type: 2}
+      propertyPath: ShapeModule.radius.value
+      value: 1.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4445507212908716, guid: 2bc7218d259b900499f21a6edfb10c3b, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -1.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 4445507212908716, guid: 2bc7218d259b900499f21a6edfb10c3b, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2bc7218d259b900499f21a6edfb10c3b, type: 2}

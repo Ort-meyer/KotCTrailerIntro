@@ -830,7 +830,7 @@ ModelImporter:
       name: TrailerScene_Loop
       takeName: Take 001
       firstFrame: 2
-      lastFrame: 29
+      lastFrame: 59
       wrapMode: 2
       orientationOffsetY: 0
       level: 0

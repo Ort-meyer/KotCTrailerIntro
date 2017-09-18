@@ -54,12 +54,12 @@ sampler2D _CameraDepthNormalsTexture;
 float4 _CameraDepthTexture_ST;
 
 // Sample count
-#if !defined(SHADER_API_GLES)
-int _SampleCount;
-#else
+//#if !defined(SHADER_API_GLES)
+//int _SampleCount;
+//#else
 // GLES2: In many cases, dynamic looping is not supported.
-static const int _SampleCount = 3;
-#endif
+static const int _SampleCount = 6;
+//#endif
 
 // Source texture properties
 sampler2D _OcclusionTexture;

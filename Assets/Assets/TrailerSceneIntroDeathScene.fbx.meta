@@ -1310,7 +1310,7 @@ ModelImporter:
       name: TrailerSceneIntroDeath_Idle
       takeName: Take 001
       firstFrame: 1
-      lastFrame: 88
+      lastFrame: 200
       wrapMode: 2
       orientationOffsetY: 0
       level: 0

@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 850d6ba56acef1943bd39b19f89c8465
+timeCreated: 1505982319
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AncleRotationControl
+    100002: AncleRotationControl 1
+    100004: CharacterBody
+    100006: CharacterBodyjoint1
+    100008: CharacterCenter
+    100010: //RootNode
+    100012: fingerjoint1
+    100014: fingerjoint10
+    100016: fingerjoint11
+    100018: fingerjoint12
+    100020: fingerjoint13
+    100022: fingerjoint2
+    100024: fingerjoint2 1
+    100026: fingerjoint2 2
+    100028: fingerjoint3
+    100030: fingerjoint3 1
+    100032: fingerjoint4
+    100034: fingerjoint5
+    100036: fingerjoint6
+    100038: fingerjoint7
+    100040: fingerjoint8
+    100042: fingerjoint9
+    100044: FootController
+    100046: FootController1
+    100048: HandControl
+    100050: HandControl1
+    100052: Head
+    100054: ikHandle1
+    100056: ikHandle2
+    100058: ikHandle3
+    100060: ikHandle4
+    100062: ikHandle5
+    100064: ikHandle6
+    100066: joint1
+    100068: joint1 1
+    100070: joint2
+    100072: joint5
+    100074: joint6
+    100076: joint7
+    100078: LeftArm
+    100080: LeftElbow
+    100082: LeftFoot
+    100084: LeftHand
+    100086: LeftKnee
+    100088: LeftLeg
+    100090: LeftShoulder
+    100092: legjoint12
+    100094: legjoint13
+    100096: legjoint17
+    100098: legjoint18
+    100100: Neck
+    100102: RightArm
+    100104: RightElbow
+    100106: RightFoot
+    100108: RightHand
+    100110: RightKnee
+    100112: RightLeg
+    100114: RightShoulder
+    100116: SpineBottom
+    100118: spinejoint1
+    100120: spinejoint2
+    100122: spinejoint3
+    100124: spinejoint4
+    100126: spinejoint5
+    100128: ToeRotationControl
+    100130: ToeRotationControl 1
+    400000: AncleRotationControl
+    400002: AncleRotationControl 1
+    400004: CharacterBody
+    400006: CharacterBodyjoint1
+    400008: CharacterCenter
+    400010: //RootNode
+    400012: fingerjoint1
+    400014: fingerjoint10
+    400016: fingerjoint11
+    400018: fingerjoint12
+    400020: fingerjoint13
+    400022: fingerjoint2
+    400024: fingerjoint2 1
+    400026: fingerjoint2 2
+    400028: fingerjoint3
+    400030: fingerjoint3 1
+    400032: fingerjoint4
+    400034: fingerjoint5
+    400036: fingerjoint6
+    400038: fingerjoint7
+    400040: fingerjoint8
+    400042: fingerjoint9
+    400044: FootController
+    400046: FootController1
+    400048: HandControl
+    400050: HandControl1
+    400052: Head
+    400054: ikHandle1
+    400056: ikHandle2
+    400058: ikHandle3
+    400060: ikHandle4
+    400062: ikHandle5
+    400064: ikHandle6
+    400066: joint1
+    400068: joint1 1
+    400070: joint2
+    400072: joint5
+    400074: joint6
+    400076: joint7
+    400078: LeftArm
+    400080: LeftElbow
+    400082: LeftFoot
+    400084: LeftHand
+    400086: LeftKnee
+    400088: LeftLeg
+    400090: LeftShoulder
+    400092: legjoint12
+    400094: legjoint13
+    400096: legjoint17
+    400098: legjoint18
+    400100: Neck
+    400102: RightArm
+    400104: RightElbow
+    400106: RightFoot
+    400108: RightHand
+    400110: RightKnee
+    400112: RightLeg
+    400114: RightShoulder
+    400116: SpineBottom
+    400118: spinejoint1
+    400120: spinejoint2
+    400122: spinejoint3
+    400124: spinejoint4
+    400126: spinejoint5
+    400128: ToeRotationControl
+    400130: ToeRotationControl 1
+    4300000: CharacterBody
+    7400000: Dance1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CharacterBody
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Dance1
+      takeName: Take 001
+      firstFrame: 313
+      lastFrame: 324
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CharacterBody
+        weight: 1
+      - path: CharacterCenter
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/LeftLeg
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/LeftLeg/LeftKnee
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/LeftLeg/LeftKnee/LeftFoot
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/LeftLeg/LeftKnee/LeftFoot/legjoint12
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/LeftLeg/LeftKnee/LeftFoot/legjoint12/legjoint13
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/RightLeg
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/RightLeg/RightKnee
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/RightLeg/RightKnee/RightFoot
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/RightLeg/RightKnee/RightFoot/legjoint17
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/RightLeg/RightKnee/RightFoot/legjoint17/legjoint18
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint1
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint1/fingerjoint2
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint1/fingerjoint2/joint1
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint1/fingerjoint2/joint1/fingerjoint3
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint4
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint4/fingerjoint2
+          1
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint4/fingerjoint2
+          1/joint2
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint4/fingerjoint2
+          1/joint2/fingerjoint3 1
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint5
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint5/fingerjoint2
+          2
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/LeftArm/LeftShoulder/LeftElbow/LeftHand/fingerjoint5/fingerjoint2
+          2/joint1 1
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/Neck
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/Neck/Head
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint6
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint6/fingerjoint7
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint6/fingerjoint7/joint5
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint8
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint8/fingerjoint9
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint8/fingerjoint9/joint6
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint8/fingerjoint9/joint6/fingerjoint10
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint11
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint11/fingerjoint12
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint11/fingerjoint12/joint7
+        weight: 1
+      - path: CharacterCenter/CharacterBodyjoint1/spinejoint1/SpineBottom/spinejoint2/spinejoint3/spinejoint4/spinejoint5/RightArm/RightShoulder/RightElbow/RightHand/fingerjoint11/fingerjoint12/joint7/fingerjoint13
+        weight: 1
+      - path: CharacterCenter/FootController
+        weight: 1
+      - path: CharacterCenter/FootController/AncleRotationControl
+        weight: 1
+      - path: CharacterCenter/FootController/AncleRotationControl/ikHandle2
+        weight: 1
+      - path: CharacterCenter/FootController/ToeRotationControl
+        weight: 1
+      - path: CharacterCenter/FootController/ToeRotationControl/ikHandle5
+        weight: 1
+      - path: CharacterCenter/FootController/ToeRotationControl/ikHandle6
+        weight: 1
+      - path: CharacterCenter/FootController1
+        weight: 1
+      - path: CharacterCenter/FootController1/AncleRotationControl 1
+        weight: 1
+      - path: CharacterCenter/FootController1/AncleRotationControl 1/ikHandle1
+        weight: 1
+      - path: CharacterCenter/FootController1/ToeRotationControl 1
+        weight: 1
+      - path: CharacterCenter/FootController1/ToeRotationControl 1/ikHandle3
+        weight: 1
+      - path: CharacterCenter/FootController1/ToeRotationControl 1/ikHandle4
+        weight: 1
+      - path: CharacterCenter/HandControl
+        weight: 1
+      - path: CharacterCenter/HandControl1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

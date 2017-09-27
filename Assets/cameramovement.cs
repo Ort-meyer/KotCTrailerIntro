@@ -15,7 +15,7 @@ public class cameramovement : MonoBehaviour
     void Update()
     {
         Vector3 movement = new Vector3();
-        if(Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.W))
         {
             movement += new Vector3(0, 0, -1) * m_movespeed * Time.deltaTime;
         }
@@ -44,6 +44,6 @@ public class cameramovement : MonoBehaviour
             movement *= 10;
         }
 
-            transform.localPosition = transform.localPosition + movement;
+        transform.localPosition = transform.localPosition + movement;
     }
 }

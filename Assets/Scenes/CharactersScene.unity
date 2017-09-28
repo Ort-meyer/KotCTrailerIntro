@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44975996, g: 0.4969707, b: 0.5602748, a: 1}
+  m_IndirectSpecularColor: {r: 0.44164687, g: 0.49053854, b: 0.57053435, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -138,7 +138,7 @@ GameObject:
   m_Component:
   - component: {fileID: 21466957}
   - component: {fileID: 21466958}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: workerhead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -275,7 +275,7 @@ GameObject:
   m_Component:
   - component: {fileID: 84547711}
   - component: {fileID: 84547712}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: chefhead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1252,7 +1252,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 429058574}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1385,6 +1385,62 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 89.99999
       objectReference: {fileID: 0}
+    - target: {fileID: 100022, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100016, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100018, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100024, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100020, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4acea3839f5d1f04dbc1cec09469c227, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1d56a31605a581e468ff4b57b596ed21, type: 3}
   m_IsPrefabParent: 0
@@ -1397,7 +1453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 449211120}
   - component: {fileID: 449211121}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: gunmanHead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1655,7 +1711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 523606494}
   - component: {fileID: 523606493}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: gunman
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1835,6 +1891,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 89.99999
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e6f9c6f7e79578844bd9e422c97a61b2, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e6f9c6f7e79578844bd9e422c97a61b2, type: 3}
   m_IsPrefabParent: 0
@@ -1888,6 +1948,10 @@ Prefab:
     - target: {fileID: 400000, guid: a2f5732a3ad6b2747ab2f2aedc96b9e5, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.419995
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a2f5732a3ad6b2747ab2f2aedc96b9e5, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a2f5732a3ad6b2747ab2f2aedc96b9e5, type: 3}
@@ -2617,6 +2681,14 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 266acaf2ac5f52e4e956366694f199b4, type: 2}
+    - target: {fileID: 100002, guid: 2dcd78decce429e46b54fa51d960132e, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2dcd78decce429e46b54fa51d960132e, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2dcd78decce429e46b54fa51d960132e, type: 3}
   m_IsPrefabParent: 0
@@ -2727,6 +2799,71 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speedIncrease: 0.2
   thisOnly: 0
+--- !u!1 &962913831
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 962913833}
+  - component: {fileID: 962913832}
+  m_Layer: 0
+  m_Name: Directional light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!108 &962913832
+Light:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 962913831}
+  m_Enabled: 1
+  serializedVersion: 8
+  m_Type: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 256
+  m_Lightmapping: 4
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!4 &962913833
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 962913831}
+  m_LocalRotation: {x: 0.71301484, y: -0.43882808, z: 0.19091171, w: 0.51243776}
+  m_LocalPosition: {x: -33.473743, y: -4.518244, z: -49.458656}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 37
+  m_LocalEulerAnglesHint: {x: 63.936005, y: -156.173, z: -101.77701}
 --- !u!1 &964647349
 GameObject:
   m_ObjectHideFlags: 0
@@ -3199,7 +3336,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1136088332}
   - component: {fileID: 1136088331}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: scientist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3493,7 +3630,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1292603500}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3606,7 +3743,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1334901571}
   - component: {fileID: 1334901570}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: worker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3871,6 +4008,14 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 4c26924c7dccd7f42b0aa7053e8e3e90, type: 2}
+    - target: {fileID: 1024170665414816, guid: 60969743533f39047aa2a092d44430f9, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1188312119012064, guid: 60969743533f39047aa2a092d44430f9, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 60969743533f39047aa2a092d44430f9, type: 2}
   m_IsPrefabParent: 0
@@ -3954,7 +4099,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1473552203}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4236,6 +4381,14 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f88f1c61c1fb77b4484b22ad35058892, type: 2}
+    - target: {fileID: 1797058233669802, guid: 19bec469fbf409f4790ba0a529c7a530, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1599571186724112, guid: 19bec469fbf409f4790ba0a529c7a530, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 19bec469fbf409f4790ba0a529c7a530, type: 2}
   m_IsPrefabParent: 0
@@ -4248,7 +4401,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1583254682}
   - component: {fileID: 1583254683}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: scientisthead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4425,7 +4578,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1635413487}
   - component: {fileID: 1635413486}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: chef
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4466,7 +4619,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1649625812}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4541,6 +4694,14 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.4347014
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: aba25093e88166642b94fe6be57148e0, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: aba25093e88166642b94fe6be57148e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: db3d56b5cd24bb042bc0c40f09da1620, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: aba25093e88166642b94fe6be57148e0, type: 3}
   m_IsPrefabParent: 0
@@ -5019,6 +5180,14 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 793b4b8a004b0c34186b9ab8baa48e80, type: 2}
+    - target: {fileID: 100002, guid: f833a7e91b23ddf42ab9ef828f7906fd, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f833a7e91b23ddf42ab9ef828f7906fd, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f833a7e91b23ddf42ab9ef828f7906fd, type: 3}
   m_IsPrefabParent: 0
@@ -5285,7 +5454,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &2084909985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5304,12 +5473,12 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2084909984}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  profile: {fileID: 11400000, guid: da808fa37661ca246aba4d8a55c46a7e, type: 2}
+  profile: {fileID: 11400000, guid: 167e3a8b286e3ad4f9f98fcf2090a408, type: 2}
 --- !u!81 &2084909987
 AudioListener:
   m_ObjectHideFlags: 0
